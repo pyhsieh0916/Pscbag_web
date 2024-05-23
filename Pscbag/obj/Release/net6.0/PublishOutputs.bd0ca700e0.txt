@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\Pscbag(11)\Pscbag\obj\Release\net6.0\PubTmp\Out\Pscbag.exe
+C:\Users\Administrator\Desktop\Pscbag(11)\Pscbag\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Administrator\Desktop\Pscbag(11)\Pscbag\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Administrator\Desktop\Pscbag(11)\Pscbag\obj\Release\net6.0\PubTmp\Out\Pscbag.dll
+C:\Users\Administrator\Desktop\Pscbag(11)\Pscbag\obj\Release\net6.0\PubTmp\Out\Pscbag.deps.json
+C:\Users\Administrator\Desktop\Pscbag(11)\Pscbag\obj\Release\net6.0\PubTmp\Out\Pscbag.runtimeconfig.json
+C:\Users\Administrator\Desktop\Pscbag(11)\Pscbag\obj\Release\net6.0\PubTmp\Out\Pscbag.pdb

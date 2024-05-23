@@ -1,0 +1,1038 @@
+D:\Pscbag\Pscbag\bin\Debug\net6.0\appsettings.Development.json
+D:\Pscbag\Pscbag\bin\Debug\net6.0\appsettings.json
+D:\Pscbag\Pscbag\bin\Debug\net6.0\Pscbag.staticwebassets.runtime.json
+D:\Pscbag\Pscbag\bin\Debug\net6.0\Pscbag.exe
+D:\Pscbag\Pscbag\bin\Debug\net6.0\Pscbag.deps.json
+D:\Pscbag\Pscbag\bin\Debug\net6.0\Pscbag.runtimeconfig.json
+D:\Pscbag\Pscbag\bin\Debug\net6.0\Pscbag.dll
+D:\Pscbag\Pscbag\bin\Debug\net6.0\Pscbag.pdb
+D:\Pscbag\Pscbag\obj\Debug\net6.0\Pscbag.csproj.AssemblyReference.cache
+D:\Pscbag\Pscbag\obj\Debug\net6.0\Pscbag.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pscbag\Pscbag\obj\Debug\net6.0\Pscbag.AssemblyInfoInputs.cache
+D:\Pscbag\Pscbag\obj\Debug\net6.0\Pscbag.AssemblyInfo.cs
+D:\Pscbag\Pscbag\obj\Debug\net6.0\Pscbag.csproj.CoreCompileInputs.cache
+D:\Pscbag\Pscbag\obj\Debug\net6.0\Pscbag.MvcApplicationPartsAssemblyInfo.cache
+D:\Pscbag\Pscbag\obj\Debug\net6.0\Pscbag.RazorAssemblyInfo.cache
+D:\Pscbag\Pscbag\obj\Debug\net6.0\Pscbag.RazorAssemblyInfo.cs
+D:\Pscbag\Pscbag\obj\Debug\net6.0\staticwebassets\msbuild.Pscbag.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Pscbag\Pscbag\obj\Debug\net6.0\staticwebassets\msbuild.build.Pscbag.props
+D:\Pscbag\Pscbag\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Pscbag.props
+D:\Pscbag\Pscbag\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Pscbag.props
+D:\Pscbag\Pscbag\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Pscbag\Pscbag\obj\Debug\net6.0\staticwebassets.build.json
+D:\Pscbag\Pscbag\obj\Debug\net6.0\staticwebassets.development.json
+D:\Pscbag\Pscbag\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Pscbag\Pscbag\obj\Debug\net6.0\scopedcss\bundle\Pscbag.styles.css
+D:\Pscbag\Pscbag\obj\Debug\net6.0\scopedcss\projectbundle\Pscbag.bundle.scp.css
+D:\Pscbag\Pscbag\obj\Debug\net6.0\Pscbag.dll
+D:\Pscbag\Pscbag\obj\Debug\net6.0\refint\Pscbag.dll
+D:\Pscbag\Pscbag\obj\Debug\net6.0\Pscbag.pdb
+D:\Pscbag\Pscbag\obj\Debug\net6.0\Pscbag.genruntimeconfig.cache
+D:\Pscbag\Pscbag\obj\Debug\net6.0\ref\Pscbag.dll
+C:\Users\Administrator\Desktop\Pscbag\Pscbag\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Administrator\Desktop\Pscbag\Pscbag\bin\Debug\net6.0\appsettings.json
+C:\Users\Administrator\Desktop\Pscbag\Pscbag\bin\Debug\net6.0\Pscbag.staticwebassets.runtime.json
+C:\Users\Administrator\Desktop\Pscbag\Pscbag\bin\Debug\net6.0\Pscbag.exe
+C:\Users\Administrator\Desktop\Pscbag\Pscbag\bin\Debug\net6.0\Pscbag.deps.json
+C:\Users\Administrator\Desktop\Pscbag\Pscbag\bin\Debug\net6.0\Pscbag.runtimeconfig.json
+C:\Users\Administrator\Desktop\Pscbag\Pscbag\bin\Debug\net6.0\Pscbag.dll
+C:\Users\Administrator\Desktop\Pscbag\Pscbag\bin\Debug\net6.0\Pscbag.pdb
+C:\Users\Administrator\Desktop\Pscbag\Pscbag\obj\Debug\net6.0\Pscbag.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Pscbag\Pscbag\obj\Debug\net6.0\Pscbag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Pscbag\Pscbag\obj\Debug\net6.0\Pscbag.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Pscbag\Pscbag\obj\Debug\net6.0\Pscbag.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Pscbag\Pscbag\obj\Debug\net6.0\Pscbag.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Pscbag\Pscbag\obj\Debug\net6.0\Pscbag.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Desktop\Pscbag\Pscbag\obj\Debug\net6.0\Pscbag.RazorAssemblyInfo.cache
+C:\Users\Administrator\Desktop\Pscbag\Pscbag\obj\Debug\net6.0\Pscbag.RazorAssemblyInfo.cs
+C:\Users\Administrator\Desktop\Pscbag\Pscbag\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Administrator\Desktop\Pscbag\Pscbag\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Administrator\Desktop\Pscbag\Pscbag\obj\Debug\net6.0\scopedcss\bundle\Pscbag.styles.css
+C:\Users\Administrator\Desktop\Pscbag\Pscbag\obj\Debug\net6.0\Pscbag.dll
+C:\Users\Administrator\Desktop\Pscbag\Pscbag\obj\Debug\net6.0\refint\Pscbag.dll
+C:\Users\Administrator\Desktop\Pscbag\Pscbag\obj\Debug\net6.0\Pscbag.pdb
+C:\Users\Administrator\Desktop\Pscbag\Pscbag\obj\Debug\net6.0\Pscbag.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Pscbag\Pscbag\obj\Debug\net6.0\ref\Pscbag.dll
+C:\Users\Administrator\Desktop\Pscbag\Pscbag\obj\Debug\net6.0\scopedcss\wwwroot\images\Pscbag\Pscbag\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Administrator\Desktop\Pscbag\Pscbag\obj\Debug\net6.0\scopedcss\projectbundle\Pscbag.bundle.scp.css
+F:\Line Download\Pscbagv1\Pscbag\bin\Debug\net6.0\appsettings.Development.json
+F:\Line Download\Pscbagv1\Pscbag\bin\Debug\net6.0\appsettings.json
+F:\Line Download\Pscbagv1\Pscbag\bin\Debug\net6.0\Pscbag.staticwebassets.runtime.json
+F:\Line Download\Pscbagv1\Pscbag\bin\Debug\net6.0\Pscbag.exe
+F:\Line Download\Pscbagv1\Pscbag\bin\Debug\net6.0\Pscbag.deps.json
+F:\Line Download\Pscbagv1\Pscbag\bin\Debug\net6.0\Pscbag.runtimeconfig.json
+F:\Line Download\Pscbagv1\Pscbag\bin\Debug\net6.0\Pscbag.dll
+F:\Line Download\Pscbagv1\Pscbag\bin\Debug\net6.0\Pscbag.pdb
+F:\Line Download\Pscbagv1\Pscbag\obj\Debug\net6.0\Pscbag.csproj.AssemblyReference.cache
+F:\Line Download\Pscbagv1\Pscbag\obj\Debug\net6.0\Pscbag.GeneratedMSBuildEditorConfig.editorconfig
+F:\Line Download\Pscbagv1\Pscbag\obj\Debug\net6.0\Pscbag.AssemblyInfoInputs.cache
+F:\Line Download\Pscbagv1\Pscbag\obj\Debug\net6.0\Pscbag.AssemblyInfo.cs
+F:\Line Download\Pscbagv1\Pscbag\obj\Debug\net6.0\Pscbag.csproj.CoreCompileInputs.cache
+F:\Line Download\Pscbagv1\Pscbag\obj\Debug\net6.0\Pscbag.MvcApplicationPartsAssemblyInfo.cache
+F:\Line Download\Pscbagv1\Pscbag\obj\Debug\net6.0\Pscbag.RazorAssemblyInfo.cache
+F:\Line Download\Pscbagv1\Pscbag\obj\Debug\net6.0\Pscbag.RazorAssemblyInfo.cs
+F:\Line Download\Pscbagv1\Pscbag\obj\Debug\net6.0\staticwebassets\msbuild.Pscbag.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Line Download\Pscbagv1\Pscbag\obj\Debug\net6.0\staticwebassets\msbuild.build.Pscbag.props
+F:\Line Download\Pscbagv1\Pscbag\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Pscbag.props
+F:\Line Download\Pscbagv1\Pscbag\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Pscbag.props
+F:\Line Download\Pscbagv1\Pscbag\obj\Debug\net6.0\staticwebassets.pack.json
+F:\Line Download\Pscbagv1\Pscbag\obj\Debug\net6.0\staticwebassets.build.json
+F:\Line Download\Pscbagv1\Pscbag\obj\Debug\net6.0\staticwebassets.development.json
+F:\Line Download\Pscbagv1\Pscbag\obj\Debug\net6.0\scopedcss\bundle\Pscbag.styles.css
+F:\Line Download\Pscbagv1\Pscbag\obj\Debug\net6.0\Pscbag.dll
+F:\Line Download\Pscbagv1\Pscbag\obj\Debug\net6.0\refint\Pscbag.dll
+F:\Line Download\Pscbagv1\Pscbag\obj\Debug\net6.0\Pscbag.pdb
+F:\Line Download\Pscbagv1\Pscbag\obj\Debug\net6.0\Pscbag.genruntimeconfig.cache
+F:\Line Download\Pscbagv1\Pscbag\obj\Debug\net6.0\ref\Pscbag.dll
+C:\Users\Administrator\Desktop\Pscbagv1 (2)\Pscbag\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Administrator\Desktop\Pscbagv1 (2)\Pscbag\bin\Debug\net6.0\appsettings.json
+C:\Users\Administrator\Desktop\Pscbagv1 (2)\Pscbag\bin\Debug\net6.0\Pscbag.staticwebassets.runtime.json
+C:\Users\Administrator\Desktop\Pscbagv1 (2)\Pscbag\bin\Debug\net6.0\Pscbag.exe
+C:\Users\Administrator\Desktop\Pscbagv1 (2)\Pscbag\bin\Debug\net6.0\Pscbag.deps.json
+C:\Users\Administrator\Desktop\Pscbagv1 (2)\Pscbag\bin\Debug\net6.0\Pscbag.runtimeconfig.json
+C:\Users\Administrator\Desktop\Pscbagv1 (2)\Pscbag\bin\Debug\net6.0\Pscbag.dll
+C:\Users\Administrator\Desktop\Pscbagv1 (2)\Pscbag\bin\Debug\net6.0\Pscbag.pdb
+C:\Users\Administrator\Desktop\Pscbagv1 (2)\Pscbag\obj\Debug\net6.0\Pscbag.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Pscbagv1 (2)\Pscbag\obj\Debug\net6.0\Pscbag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Pscbagv1 (2)\Pscbag\obj\Debug\net6.0\Pscbag.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Pscbagv1 (2)\Pscbag\obj\Debug\net6.0\Pscbag.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Pscbagv1 (2)\Pscbag\obj\Debug\net6.0\Pscbag.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Pscbagv1 (2)\Pscbag\obj\Debug\net6.0\Pscbag.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Desktop\Pscbagv1 (2)\Pscbag\obj\Debug\net6.0\Pscbag.RazorAssemblyInfo.cache
+C:\Users\Administrator\Desktop\Pscbagv1 (2)\Pscbag\obj\Debug\net6.0\Pscbag.RazorAssemblyInfo.cs
+C:\Users\Administrator\Desktop\Pscbagv1 (2)\Pscbag\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Administrator\Desktop\Pscbagv1 (2)\Pscbag\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Administrator\Desktop\Pscbagv1 (2)\Pscbag\obj\Debug\net6.0\scopedcss\bundle\Pscbag.styles.css
+C:\Users\Administrator\Desktop\Pscbagv1 (2)\Pscbag\obj\Debug\net6.0\Pscbag.dll
+C:\Users\Administrator\Desktop\Pscbagv1 (2)\Pscbag\obj\Debug\net6.0\refint\Pscbag.dll
+C:\Users\Administrator\Desktop\Pscbagv1 (2)\Pscbag\obj\Debug\net6.0\Pscbag.pdb
+C:\Users\Administrator\Desktop\Pscbagv1 (2)\Pscbag\obj\Debug\net6.0\Pscbag.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Pscbagv1 (2)\Pscbag\obj\Debug\net6.0\ref\Pscbag.dll
+C:\Users\Administrator\Desktop\Pscbag(3)\Pscbag\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Administrator\Desktop\Pscbag(3)\Pscbag\bin\Debug\net6.0\appsettings.json
+C:\Users\Administrator\Desktop\Pscbag(3)\Pscbag\bin\Debug\net6.0\Pscbag.staticwebassets.runtime.json
+C:\Users\Administrator\Desktop\Pscbag(3)\Pscbag\bin\Debug\net6.0\Pscbag.exe
+C:\Users\Administrator\Desktop\Pscbag(3)\Pscbag\bin\Debug\net6.0\Pscbag.deps.json
+C:\Users\Administrator\Desktop\Pscbag(3)\Pscbag\bin\Debug\net6.0\Pscbag.runtimeconfig.json
+C:\Users\Administrator\Desktop\Pscbag(3)\Pscbag\bin\Debug\net6.0\Pscbag.dll
+C:\Users\Administrator\Desktop\Pscbag(3)\Pscbag\bin\Debug\net6.0\Pscbag.pdb
+C:\Users\Administrator\Desktop\Pscbag(3)\Pscbag\obj\Debug\net6.0\Pscbag.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Pscbag(3)\Pscbag\obj\Debug\net6.0\Pscbag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Pscbag(3)\Pscbag\obj\Debug\net6.0\Pscbag.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Pscbag(3)\Pscbag\obj\Debug\net6.0\Pscbag.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Pscbag(3)\Pscbag\obj\Debug\net6.0\Pscbag.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Pscbag(3)\Pscbag\obj\Debug\net6.0\Pscbag.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Desktop\Pscbag(3)\Pscbag\obj\Debug\net6.0\Pscbag.RazorAssemblyInfo.cache
+C:\Users\Administrator\Desktop\Pscbag(3)\Pscbag\obj\Debug\net6.0\Pscbag.RazorAssemblyInfo.cs
+C:\Users\Administrator\Desktop\Pscbag(3)\Pscbag\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Administrator\Desktop\Pscbag(3)\Pscbag\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Administrator\Desktop\Pscbag(3)\Pscbag\obj\Debug\net6.0\scopedcss\bundle\Pscbag.styles.css
+C:\Users\Administrator\Desktop\Pscbag(3)\Pscbag\obj\Debug\net6.0\Pscbag.dll
+C:\Users\Administrator\Desktop\Pscbag(3)\Pscbag\obj\Debug\net6.0\refint\Pscbag.dll
+C:\Users\Administrator\Desktop\Pscbag(3)\Pscbag\obj\Debug\net6.0\Pscbag.pdb
+C:\Users\Administrator\Desktop\Pscbag(3)\Pscbag\obj\Debug\net6.0\Pscbag.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Pscbag(3)\Pscbag\obj\Debug\net6.0\ref\Pscbag.dll
+F:\Line Download\Desktop\Pscbag(4)\Pscbag\bin\Debug\net6.0\appsettings.Development.json
+F:\Line Download\Desktop\Pscbag(4)\Pscbag\bin\Debug\net6.0\appsettings.json
+F:\Line Download\Desktop\Pscbag(4)\Pscbag\bin\Debug\net6.0\Pscbag.staticwebassets.runtime.json
+F:\Line Download\Desktop\Pscbag(4)\Pscbag\bin\Debug\net6.0\Pscbag.exe
+F:\Line Download\Desktop\Pscbag(4)\Pscbag\bin\Debug\net6.0\Pscbag.deps.json
+F:\Line Download\Desktop\Pscbag(4)\Pscbag\bin\Debug\net6.0\Pscbag.runtimeconfig.json
+F:\Line Download\Desktop\Pscbag(4)\Pscbag\bin\Debug\net6.0\Pscbag.dll
+F:\Line Download\Desktop\Pscbag(4)\Pscbag\bin\Debug\net6.0\Pscbag.pdb
+F:\Line Download\Desktop\Pscbag(4)\Pscbag\obj\Debug\net6.0\Pscbag.csproj.AssemblyReference.cache
+F:\Line Download\Desktop\Pscbag(4)\Pscbag\obj\Debug\net6.0\Pscbag.GeneratedMSBuildEditorConfig.editorconfig
+F:\Line Download\Desktop\Pscbag(4)\Pscbag\obj\Debug\net6.0\Pscbag.AssemblyInfoInputs.cache
+F:\Line Download\Desktop\Pscbag(4)\Pscbag\obj\Debug\net6.0\Pscbag.AssemblyInfo.cs
+F:\Line Download\Desktop\Pscbag(4)\Pscbag\obj\Debug\net6.0\Pscbag.csproj.CoreCompileInputs.cache
+F:\Line Download\Desktop\Pscbag(4)\Pscbag\obj\Debug\net6.0\Pscbag.MvcApplicationPartsAssemblyInfo.cache
+F:\Line Download\Desktop\Pscbag(4)\Pscbag\obj\Debug\net6.0\Pscbag.RazorAssemblyInfo.cache
+F:\Line Download\Desktop\Pscbag(4)\Pscbag\obj\Debug\net6.0\Pscbag.RazorAssemblyInfo.cs
+F:\Line Download\Desktop\Pscbag(4)\Pscbag\obj\Debug\net6.0\staticwebassets\msbuild.Pscbag.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Line Download\Desktop\Pscbag(4)\Pscbag\obj\Debug\net6.0\staticwebassets\msbuild.build.Pscbag.props
+F:\Line Download\Desktop\Pscbag(4)\Pscbag\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Pscbag.props
+F:\Line Download\Desktop\Pscbag(4)\Pscbag\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Pscbag.props
+F:\Line Download\Desktop\Pscbag(4)\Pscbag\obj\Debug\net6.0\staticwebassets.pack.json
+F:\Line Download\Desktop\Pscbag(4)\Pscbag\obj\Debug\net6.0\staticwebassets.build.json
+F:\Line Download\Desktop\Pscbag(4)\Pscbag\obj\Debug\net6.0\staticwebassets.development.json
+F:\Line Download\Desktop\Pscbag(4)\Pscbag\obj\Debug\net6.0\scopedcss\bundle\Pscbag.styles.css
+F:\Line Download\Desktop\Pscbag(4)\Pscbag\obj\Debug\net6.0\Pscbag.dll
+F:\Line Download\Desktop\Pscbag(4)\Pscbag\obj\Debug\net6.0\refint\Pscbag.dll
+F:\Line Download\Desktop\Pscbag(4)\Pscbag\obj\Debug\net6.0\Pscbag.pdb
+F:\Line Download\Desktop\Pscbag(4)\Pscbag\obj\Debug\net6.0\Pscbag.genruntimeconfig.cache
+F:\Line Download\Desktop\Pscbag(4)\Pscbag\obj\Debug\net6.0\ref\Pscbag.dll
+C:\Users\Administrator\Desktop\Pscbag(4)\Pscbag\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Administrator\Desktop\Pscbag(4)\Pscbag\bin\Debug\net6.0\appsettings.json
+C:\Users\Administrator\Desktop\Pscbag(4)\Pscbag\bin\Debug\net6.0\Pscbag.staticwebassets.runtime.json
+C:\Users\Administrator\Desktop\Pscbag(4)\Pscbag\bin\Debug\net6.0\Pscbag.exe
+C:\Users\Administrator\Desktop\Pscbag(4)\Pscbag\bin\Debug\net6.0\Pscbag.deps.json
+C:\Users\Administrator\Desktop\Pscbag(4)\Pscbag\bin\Debug\net6.0\Pscbag.runtimeconfig.json
+C:\Users\Administrator\Desktop\Pscbag(4)\Pscbag\bin\Debug\net6.0\Pscbag.dll
+C:\Users\Administrator\Desktop\Pscbag(4)\Pscbag\bin\Debug\net6.0\Pscbag.pdb
+C:\Users\Administrator\Desktop\Pscbag(4)\Pscbag\obj\Debug\net6.0\Pscbag.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Pscbag(4)\Pscbag\obj\Debug\net6.0\Pscbag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Pscbag(4)\Pscbag\obj\Debug\net6.0\Pscbag.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Pscbag(4)\Pscbag\obj\Debug\net6.0\Pscbag.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Pscbag(4)\Pscbag\obj\Debug\net6.0\Pscbag.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Pscbag(4)\Pscbag\obj\Debug\net6.0\Pscbag.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Desktop\Pscbag(4)\Pscbag\obj\Debug\net6.0\Pscbag.RazorAssemblyInfo.cache
+C:\Users\Administrator\Desktop\Pscbag(4)\Pscbag\obj\Debug\net6.0\Pscbag.RazorAssemblyInfo.cs
+C:\Users\Administrator\Desktop\Pscbag(4)\Pscbag\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Administrator\Desktop\Pscbag(4)\Pscbag\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Administrator\Desktop\Pscbag(4)\Pscbag\obj\Debug\net6.0\scopedcss\bundle\Pscbag.styles.css
+C:\Users\Administrator\Desktop\Pscbag(4)\Pscbag\obj\Debug\net6.0\Pscbag.dll
+C:\Users\Administrator\Desktop\Pscbag(4)\Pscbag\obj\Debug\net6.0\refint\Pscbag.dll
+C:\Users\Administrator\Desktop\Pscbag(4)\Pscbag\obj\Debug\net6.0\Pscbag.pdb
+C:\Users\Administrator\Desktop\Pscbag(4)\Pscbag\obj\Debug\net6.0\Pscbag.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Pscbag(4)\Pscbag\obj\Debug\net6.0\ref\Pscbag.dll
+C:\Users\Administrator\Desktop\Pscbag(5)\Pscbag\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Administrator\Desktop\Pscbag(5)\Pscbag\bin\Debug\net6.0\appsettings.json
+C:\Users\Administrator\Desktop\Pscbag(5)\Pscbag\bin\Debug\net6.0\Pscbag.staticwebassets.runtime.json
+C:\Users\Administrator\Desktop\Pscbag(5)\Pscbag\bin\Debug\net6.0\Pscbag.exe
+C:\Users\Administrator\Desktop\Pscbag(5)\Pscbag\bin\Debug\net6.0\Pscbag.deps.json
+C:\Users\Administrator\Desktop\Pscbag(5)\Pscbag\bin\Debug\net6.0\Pscbag.runtimeconfig.json
+C:\Users\Administrator\Desktop\Pscbag(5)\Pscbag\bin\Debug\net6.0\Pscbag.dll
+C:\Users\Administrator\Desktop\Pscbag(5)\Pscbag\bin\Debug\net6.0\Pscbag.pdb
+C:\Users\Administrator\Desktop\Pscbag(5)\Pscbag\obj\Debug\net6.0\Pscbag.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Pscbag(5)\Pscbag\obj\Debug\net6.0\Pscbag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Pscbag(5)\Pscbag\obj\Debug\net6.0\Pscbag.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Pscbag(5)\Pscbag\obj\Debug\net6.0\Pscbag.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Pscbag(5)\Pscbag\obj\Debug\net6.0\Pscbag.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Pscbag(5)\Pscbag\obj\Debug\net6.0\Pscbag.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Desktop\Pscbag(5)\Pscbag\obj\Debug\net6.0\Pscbag.RazorAssemblyInfo.cache
+C:\Users\Administrator\Desktop\Pscbag(5)\Pscbag\obj\Debug\net6.0\Pscbag.RazorAssemblyInfo.cs
+C:\Users\Administrator\Desktop\Pscbag(5)\Pscbag\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Administrator\Desktop\Pscbag(5)\Pscbag\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Administrator\Desktop\Pscbag(5)\Pscbag\obj\Debug\net6.0\scopedcss\bundle\Pscbag.styles.css
+C:\Users\Administrator\Desktop\Pscbag(5)\Pscbag\obj\Debug\net6.0\Pscbag.dll
+C:\Users\Administrator\Desktop\Pscbag(5)\Pscbag\obj\Debug\net6.0\refint\Pscbag.dll
+C:\Users\Administrator\Desktop\Pscbag(5)\Pscbag\obj\Debug\net6.0\Pscbag.pdb
+C:\Users\Administrator\Desktop\Pscbag(5)\Pscbag\obj\Debug\net6.0\Pscbag.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Pscbag(5)\Pscbag\obj\Debug\net6.0\ref\Pscbag.dll
+F:\Line Download\Pscbag(6)\Pscbag\bin\Debug\net6.0\appsettings.Development.json
+F:\Line Download\Pscbag(6)\Pscbag\bin\Debug\net6.0\appsettings.json
+F:\Line Download\Pscbag(6)\Pscbag\bin\Debug\net6.0\Pscbag.staticwebassets.runtime.json
+F:\Line Download\Pscbag(6)\Pscbag\bin\Debug\net6.0\Pscbag.exe
+F:\Line Download\Pscbag(6)\Pscbag\bin\Debug\net6.0\Pscbag.deps.json
+F:\Line Download\Pscbag(6)\Pscbag\bin\Debug\net6.0\Pscbag.runtimeconfig.json
+F:\Line Download\Pscbag(6)\Pscbag\bin\Debug\net6.0\Pscbag.dll
+F:\Line Download\Pscbag(6)\Pscbag\bin\Debug\net6.0\Pscbag.pdb
+F:\Line Download\Pscbag(6)\Pscbag\obj\Debug\net6.0\Pscbag.csproj.AssemblyReference.cache
+F:\Line Download\Pscbag(6)\Pscbag\obj\Debug\net6.0\Pscbag.GeneratedMSBuildEditorConfig.editorconfig
+F:\Line Download\Pscbag(6)\Pscbag\obj\Debug\net6.0\Pscbag.AssemblyInfoInputs.cache
+F:\Line Download\Pscbag(6)\Pscbag\obj\Debug\net6.0\Pscbag.AssemblyInfo.cs
+F:\Line Download\Pscbag(6)\Pscbag\obj\Debug\net6.0\Pscbag.csproj.CoreCompileInputs.cache
+F:\Line Download\Pscbag(6)\Pscbag\obj\Debug\net6.0\Pscbag.MvcApplicationPartsAssemblyInfo.cache
+F:\Line Download\Pscbag(6)\Pscbag\obj\Debug\net6.0\Pscbag.RazorAssemblyInfo.cache
+F:\Line Download\Pscbag(6)\Pscbag\obj\Debug\net6.0\Pscbag.RazorAssemblyInfo.cs
+F:\Line Download\Pscbag(6)\Pscbag\obj\Debug\net6.0\staticwebassets\msbuild.Pscbag.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Line Download\Pscbag(6)\Pscbag\obj\Debug\net6.0\staticwebassets\msbuild.build.Pscbag.props
+F:\Line Download\Pscbag(6)\Pscbag\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Pscbag.props
+F:\Line Download\Pscbag(6)\Pscbag\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Pscbag.props
+F:\Line Download\Pscbag(6)\Pscbag\obj\Debug\net6.0\staticwebassets.pack.json
+F:\Line Download\Pscbag(6)\Pscbag\obj\Debug\net6.0\staticwebassets.build.json
+F:\Line Download\Pscbag(6)\Pscbag\obj\Debug\net6.0\staticwebassets.development.json
+F:\Line Download\Pscbag(6)\Pscbag\obj\Debug\net6.0\scopedcss\bundle\Pscbag.styles.css
+F:\Line Download\Pscbag(6)\Pscbag\obj\Debug\net6.0\Pscbag.dll
+F:\Line Download\Pscbag(6)\Pscbag\obj\Debug\net6.0\refint\Pscbag.dll
+F:\Line Download\Pscbag(6)\Pscbag\obj\Debug\net6.0\Pscbag.pdb
+F:\Line Download\Pscbag(6)\Pscbag\obj\Debug\net6.0\Pscbag.genruntimeconfig.cache
+F:\Line Download\Pscbag(6)\Pscbag\obj\Debug\net6.0\ref\Pscbag.dll
+F:\Line Download\Pscbag(9)\Pscbag\bin\Debug\net6.0\appsettings.Development.json
+F:\Line Download\Pscbag(9)\Pscbag\bin\Debug\net6.0\appsettings.json
+F:\Line Download\Pscbag(9)\Pscbag\bin\Debug\net6.0\Pscbag.staticwebassets.runtime.json
+F:\Line Download\Pscbag(9)\Pscbag\bin\Debug\net6.0\Pscbag.exe
+F:\Line Download\Pscbag(9)\Pscbag\bin\Debug\net6.0\Pscbag.deps.json
+F:\Line Download\Pscbag(9)\Pscbag\bin\Debug\net6.0\Pscbag.runtimeconfig.json
+F:\Line Download\Pscbag(9)\Pscbag\bin\Debug\net6.0\Pscbag.dll
+F:\Line Download\Pscbag(9)\Pscbag\bin\Debug\net6.0\Pscbag.pdb
+F:\Line Download\Pscbag(9)\Pscbag\obj\Debug\net6.0\Pscbag.csproj.AssemblyReference.cache
+F:\Line Download\Pscbag(9)\Pscbag\obj\Debug\net6.0\Pscbag.GeneratedMSBuildEditorConfig.editorconfig
+F:\Line Download\Pscbag(9)\Pscbag\obj\Debug\net6.0\Pscbag.AssemblyInfoInputs.cache
+F:\Line Download\Pscbag(9)\Pscbag\obj\Debug\net6.0\Pscbag.AssemblyInfo.cs
+F:\Line Download\Pscbag(9)\Pscbag\obj\Debug\net6.0\Pscbag.csproj.CoreCompileInputs.cache
+F:\Line Download\Pscbag(9)\Pscbag\obj\Debug\net6.0\Pscbag.MvcApplicationPartsAssemblyInfo.cache
+F:\Line Download\Pscbag(9)\Pscbag\obj\Debug\net6.0\Pscbag.RazorAssemblyInfo.cache
+F:\Line Download\Pscbag(9)\Pscbag\obj\Debug\net6.0\Pscbag.RazorAssemblyInfo.cs
+F:\Line Download\Pscbag(9)\Pscbag\obj\Debug\net6.0\staticwebassets\msbuild.Pscbag.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Line Download\Pscbag(9)\Pscbag\obj\Debug\net6.0\staticwebassets\msbuild.build.Pscbag.props
+F:\Line Download\Pscbag(9)\Pscbag\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Pscbag.props
+F:\Line Download\Pscbag(9)\Pscbag\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Pscbag.props
+F:\Line Download\Pscbag(9)\Pscbag\obj\Debug\net6.0\staticwebassets.pack.json
+F:\Line Download\Pscbag(9)\Pscbag\obj\Debug\net6.0\staticwebassets.build.json
+F:\Line Download\Pscbag(9)\Pscbag\obj\Debug\net6.0\staticwebassets.development.json
+F:\Line Download\Pscbag(9)\Pscbag\obj\Debug\net6.0\scopedcss\bundle\Pscbag.styles.css
+F:\Line Download\Pscbag(9)\Pscbag\obj\Debug\net6.0\Pscbag.dll
+F:\Line Download\Pscbag(9)\Pscbag\obj\Debug\net6.0\refint\Pscbag.dll
+F:\Line Download\Pscbag(9)\Pscbag\obj\Debug\net6.0\Pscbag.pdb
+F:\Line Download\Pscbag(9)\Pscbag\obj\Debug\net6.0\Pscbag.genruntimeconfig.cache
+F:\Line Download\Pscbag(9)\Pscbag\obj\Debug\net6.0\ref\Pscbag.dll
+C:\Users\Administrator\Desktop\Pscbag(11)\Pscbag\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Administrator\Desktop\Pscbag(11)\Pscbag\bin\Debug\net6.0\appsettings.json
+C:\Users\Administrator\Desktop\Pscbag(11)\Pscbag\bin\Debug\net6.0\Pscbag.staticwebassets.runtime.json
+C:\Users\Administrator\Desktop\Pscbag(11)\Pscbag\bin\Debug\net6.0\Pscbag.exe
+C:\Users\Administrator\Desktop\Pscbag(11)\Pscbag\bin\Debug\net6.0\Pscbag.deps.json
+C:\Users\Administrator\Desktop\Pscbag(11)\Pscbag\bin\Debug\net6.0\Pscbag.runtimeconfig.json
+C:\Users\Administrator\Desktop\Pscbag(11)\Pscbag\bin\Debug\net6.0\Pscbag.dll
+C:\Users\Administrator\Desktop\Pscbag(11)\Pscbag\bin\Debug\net6.0\Pscbag.pdb
+C:\Users\Administrator\Desktop\Pscbag(11)\Pscbag\obj\Debug\net6.0\Pscbag.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Pscbag(11)\Pscbag\obj\Debug\net6.0\Pscbag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Pscbag(11)\Pscbag\obj\Debug\net6.0\Pscbag.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Pscbag(11)\Pscbag\obj\Debug\net6.0\Pscbag.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Pscbag(11)\Pscbag\obj\Debug\net6.0\Pscbag.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Pscbag(11)\Pscbag\obj\Debug\net6.0\Pscbag.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Desktop\Pscbag(11)\Pscbag\obj\Debug\net6.0\Pscbag.RazorAssemblyInfo.cache
+C:\Users\Administrator\Desktop\Pscbag(11)\Pscbag\obj\Debug\net6.0\Pscbag.RazorAssemblyInfo.cs
+C:\Users\Administrator\Desktop\Pscbag(11)\Pscbag\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Administrator\Desktop\Pscbag(11)\Pscbag\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Administrator\Desktop\Pscbag(11)\Pscbag\obj\Debug\net6.0\scopedcss\bundle\Pscbag.styles.css
+C:\Users\Administrator\Desktop\Pscbag(11)\Pscbag\obj\Debug\net6.0\Pscbag.dll
+C:\Users\Administrator\Desktop\Pscbag(11)\Pscbag\obj\Debug\net6.0\refint\Pscbag.dll
+C:\Users\Administrator\Desktop\Pscbag(11)\Pscbag\obj\Debug\net6.0\Pscbag.pdb
+C:\Users\Administrator\Desktop\Pscbag(11)\Pscbag\obj\Debug\net6.0\Pscbag.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Pscbag(11)\Pscbag\obj\Debug\net6.0\ref\Pscbag.dll
+C:\Users\Administrator\Desktop\Pscbag(11)\Pscbag\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\Administrator\Desktop\Pscbag(11)\Pscbag\obj\Debug\net6.0\Pscbag.csproj.CopyComplete
+F:\Line Download\Pscbag(12)\Pscbag\bin\Debug\net6.0\appsettings.Development.json
+F:\Line Download\Pscbag(12)\Pscbag\bin\Debug\net6.0\appsettings.json
+F:\Line Download\Pscbag(12)\Pscbag\bin\Debug\net6.0\Pscbag.staticwebassets.runtime.json
+F:\Line Download\Pscbag(12)\Pscbag\bin\Debug\net6.0\Pscbag.exe
+F:\Line Download\Pscbag(12)\Pscbag\bin\Debug\net6.0\Pscbag.deps.json
+F:\Line Download\Pscbag(12)\Pscbag\bin\Debug\net6.0\Pscbag.runtimeconfig.json
+F:\Line Download\Pscbag(12)\Pscbag\bin\Debug\net6.0\Pscbag.dll
+F:\Line Download\Pscbag(12)\Pscbag\bin\Debug\net6.0\Pscbag.pdb
+F:\Line Download\Pscbag(12)\Pscbag\bin\Debug\net6.0\MySql.Data.dll
+F:\Line Download\Pscbag(12)\Pscbag\obj\Debug\net6.0\Pscbag.csproj.AssemblyReference.cache
+F:\Line Download\Pscbag(12)\Pscbag\obj\Debug\net6.0\Pscbag.GeneratedMSBuildEditorConfig.editorconfig
+F:\Line Download\Pscbag(12)\Pscbag\obj\Debug\net6.0\Pscbag.AssemblyInfoInputs.cache
+F:\Line Download\Pscbag(12)\Pscbag\obj\Debug\net6.0\Pscbag.AssemblyInfo.cs
+F:\Line Download\Pscbag(12)\Pscbag\obj\Debug\net6.0\Pscbag.csproj.CoreCompileInputs.cache
+F:\Line Download\Pscbag(12)\Pscbag\obj\Debug\net6.0\Pscbag.MvcApplicationPartsAssemblyInfo.cache
+F:\Line Download\Pscbag(12)\Pscbag\obj\Debug\net6.0\Pscbag.RazorAssemblyInfo.cache
+F:\Line Download\Pscbag(12)\Pscbag\obj\Debug\net6.0\Pscbag.RazorAssemblyInfo.cs
+F:\Line Download\Pscbag(12)\Pscbag\obj\Debug\net6.0\staticwebassets\msbuild.Pscbag.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Line Download\Pscbag(12)\Pscbag\obj\Debug\net6.0\staticwebassets\msbuild.build.Pscbag.props
+F:\Line Download\Pscbag(12)\Pscbag\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Pscbag.props
+F:\Line Download\Pscbag(12)\Pscbag\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Pscbag.props
+F:\Line Download\Pscbag(12)\Pscbag\obj\Debug\net6.0\staticwebassets.pack.json
+F:\Line Download\Pscbag(12)\Pscbag\obj\Debug\net6.0\staticwebassets.build.json
+F:\Line Download\Pscbag(12)\Pscbag\obj\Debug\net6.0\staticwebassets.development.json
+F:\Line Download\Pscbag(12)\Pscbag\obj\Debug\net6.0\scopedcss\bundle\Pscbag.styles.css
+F:\Line Download\Pscbag(12)\Pscbag\obj\Debug\net6.0\Pscbag.csproj.CopyComplete
+F:\Line Download\Pscbag(12)\Pscbag\obj\Debug\net6.0\Pscbag.dll
+F:\Line Download\Pscbag(12)\Pscbag\obj\Debug\net6.0\refint\Pscbag.dll
+F:\Line Download\Pscbag(12)\Pscbag\obj\Debug\net6.0\Pscbag.pdb
+F:\Line Download\Pscbag(12)\Pscbag\obj\Debug\net6.0\Pscbag.genruntimeconfig.cache
+F:\Line Download\Pscbag(12)\Pscbag\obj\Debug\net6.0\ref\Pscbag.dll
+C:\Users\Administrator\Desktop\Pscbag(14)\Pscbag\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Administrator\Desktop\Pscbag(14)\Pscbag\bin\Debug\net6.0\appsettings.json
+C:\Users\Administrator\Desktop\Pscbag(14)\Pscbag\bin\Debug\net6.0\Pscbag.staticwebassets.runtime.json
+C:\Users\Administrator\Desktop\Pscbag(14)\Pscbag\bin\Debug\net6.0\Pscbag.exe
+C:\Users\Administrator\Desktop\Pscbag(14)\Pscbag\bin\Debug\net6.0\Pscbag.deps.json
+C:\Users\Administrator\Desktop\Pscbag(14)\Pscbag\bin\Debug\net6.0\Pscbag.runtimeconfig.json
+C:\Users\Administrator\Desktop\Pscbag(14)\Pscbag\bin\Debug\net6.0\Pscbag.dll
+C:\Users\Administrator\Desktop\Pscbag(14)\Pscbag\bin\Debug\net6.0\Pscbag.pdb
+C:\Users\Administrator\Desktop\Pscbag(14)\Pscbag\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\Administrator\Desktop\Pscbag(14)\Pscbag\obj\Debug\net6.0\Pscbag.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Pscbag(14)\Pscbag\obj\Debug\net6.0\Pscbag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Pscbag(14)\Pscbag\obj\Debug\net6.0\Pscbag.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Pscbag(14)\Pscbag\obj\Debug\net6.0\Pscbag.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Pscbag(14)\Pscbag\obj\Debug\net6.0\Pscbag.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Pscbag(14)\Pscbag\obj\Debug\net6.0\Pscbag.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Desktop\Pscbag(14)\Pscbag\obj\Debug\net6.0\Pscbag.RazorAssemblyInfo.cache
+C:\Users\Administrator\Desktop\Pscbag(14)\Pscbag\obj\Debug\net6.0\Pscbag.RazorAssemblyInfo.cs
+C:\Users\Administrator\Desktop\Pscbag(14)\Pscbag\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Administrator\Desktop\Pscbag(14)\Pscbag\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Administrator\Desktop\Pscbag(14)\Pscbag\obj\Debug\net6.0\scopedcss\bundle\Pscbag.styles.css
+C:\Users\Administrator\Desktop\Pscbag(14)\Pscbag\obj\Debug\net6.0\Pscbag.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Pscbag(14)\Pscbag\obj\Debug\net6.0\Pscbag.dll
+C:\Users\Administrator\Desktop\Pscbag(14)\Pscbag\obj\Debug\net6.0\refint\Pscbag.dll
+C:\Users\Administrator\Desktop\Pscbag(14)\Pscbag\obj\Debug\net6.0\Pscbag.pdb
+C:\Users\Administrator\Desktop\Pscbag(14)\Pscbag\obj\Debug\net6.0\Pscbag.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Pscbag(14)\Pscbag\obj\Debug\net6.0\ref\Pscbag.dll
+C:\Users\user\Desktop\Pscbag(15)\Pscbag\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\Desktop\Pscbag(15)\Pscbag\bin\Debug\net6.0\appsettings.json
+C:\Users\user\Desktop\Pscbag(15)\Pscbag\bin\Debug\net6.0\Pscbag.staticwebassets.runtime.json
+C:\Users\user\Desktop\Pscbag(15)\Pscbag\bin\Debug\net6.0\Pscbag.exe
+C:\Users\user\Desktop\Pscbag(15)\Pscbag\bin\Debug\net6.0\Pscbag.deps.json
+C:\Users\user\Desktop\Pscbag(15)\Pscbag\bin\Debug\net6.0\Pscbag.runtimeconfig.json
+C:\Users\user\Desktop\Pscbag(15)\Pscbag\bin\Debug\net6.0\Pscbag.dll
+C:\Users\user\Desktop\Pscbag(15)\Pscbag\bin\Debug\net6.0\Pscbag.pdb
+C:\Users\user\Desktop\Pscbag(15)\Pscbag\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\user\Desktop\Pscbag(15)\Pscbag\obj\Debug\net6.0\Pscbag.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Pscbag(15)\Pscbag\obj\Debug\net6.0\Pscbag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Pscbag(15)\Pscbag\obj\Debug\net6.0\Pscbag.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Pscbag(15)\Pscbag\obj\Debug\net6.0\Pscbag.AssemblyInfo.cs
+C:\Users\user\Desktop\Pscbag(15)\Pscbag\obj\Debug\net6.0\Pscbag.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Pscbag(15)\Pscbag\obj\Debug\net6.0\Pscbag.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\Pscbag(15)\Pscbag\obj\Debug\net6.0\Pscbag.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\Pscbag(15)\Pscbag\obj\Debug\net6.0\Pscbag.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\Pscbag(15)\Pscbag\obj\Debug\net6.0\staticwebassets\msbuild.Pscbag.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Desktop\Pscbag(15)\Pscbag\obj\Debug\net6.0\staticwebassets\msbuild.build.Pscbag.props
+C:\Users\user\Desktop\Pscbag(15)\Pscbag\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Pscbag.props
+C:\Users\user\Desktop\Pscbag(15)\Pscbag\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Pscbag.props
+C:\Users\user\Desktop\Pscbag(15)\Pscbag\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\user\Desktop\Pscbag(15)\Pscbag\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\Desktop\Pscbag(15)\Pscbag\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\Desktop\Pscbag(15)\Pscbag\obj\Debug\net6.0\scopedcss\bundle\Pscbag.styles.css
+C:\Users\user\Desktop\Pscbag(15)\Pscbag\obj\Debug\net6.0\Pscbag.csproj.CopyComplete
+C:\Users\user\Desktop\Pscbag(15)\Pscbag\obj\Debug\net6.0\Pscbag.dll
+C:\Users\user\Desktop\Pscbag(15)\Pscbag\obj\Debug\net6.0\refint\Pscbag.dll
+C:\Users\user\Desktop\Pscbag(15)\Pscbag\obj\Debug\net6.0\Pscbag.pdb
+C:\Users\user\Desktop\Pscbag(15)\Pscbag\obj\Debug\net6.0\Pscbag.genruntimeconfig.cache
+C:\Users\user\Desktop\Pscbag(15)\Pscbag\obj\Debug\net6.0\ref\Pscbag.dll
+C:\Users\user\Desktop\Pscbag(15)\Pscbag\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\Pscbag(15)\Pscbag\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\Pscbag(15)\Pscbag\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\user\Desktop\Pscbag(15)\Pscbag\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\Pscbag(15)\Pscbag\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\Pscbag(15)\Pscbag\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\Pscbag(15)\Pscbag\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\Pscbag(15)\Pscbag\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Administrator\Desktop\Pscbag(16)\Pscbag\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Administrator\Desktop\Pscbag(16)\Pscbag\bin\Debug\net6.0\appsettings.json
+C:\Users\Administrator\Desktop\Pscbag(16)\Pscbag\bin\Debug\net6.0\Pscbag.staticwebassets.runtime.json
+C:\Users\Administrator\Desktop\Pscbag(16)\Pscbag\bin\Debug\net6.0\Pscbag.exe
+C:\Users\Administrator\Desktop\Pscbag(16)\Pscbag\bin\Debug\net6.0\Pscbag.deps.json
+C:\Users\Administrator\Desktop\Pscbag(16)\Pscbag\bin\Debug\net6.0\Pscbag.runtimeconfig.json
+C:\Users\Administrator\Desktop\Pscbag(16)\Pscbag\bin\Debug\net6.0\Pscbag.dll
+C:\Users\Administrator\Desktop\Pscbag(16)\Pscbag\bin\Debug\net6.0\Pscbag.pdb
+C:\Users\Administrator\Desktop\Pscbag(16)\Pscbag\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrator\Desktop\Pscbag(16)\Pscbag\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Administrator\Desktop\Pscbag(16)\Pscbag\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Administrator\Desktop\Pscbag(16)\Pscbag\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Administrator\Desktop\Pscbag(16)\Pscbag\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrator\Desktop\Pscbag(16)\Pscbag\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Administrator\Desktop\Pscbag(16)\Pscbag\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Administrator\Desktop\Pscbag(16)\Pscbag\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Administrator\Desktop\Pscbag(16)\Pscbag\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\Administrator\Desktop\Pscbag(16)\Pscbag\obj\Debug\net6.0\Pscbag.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Pscbag(16)\Pscbag\obj\Debug\net6.0\Pscbag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Pscbag(16)\Pscbag\obj\Debug\net6.0\Pscbag.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Pscbag(16)\Pscbag\obj\Debug\net6.0\Pscbag.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Pscbag(16)\Pscbag\obj\Debug\net6.0\Pscbag.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Pscbag(16)\Pscbag\obj\Debug\net6.0\Pscbag.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Desktop\Pscbag(16)\Pscbag\obj\Debug\net6.0\Pscbag.RazorAssemblyInfo.cache
+C:\Users\Administrator\Desktop\Pscbag(16)\Pscbag\obj\Debug\net6.0\Pscbag.RazorAssemblyInfo.cs
+C:\Users\Administrator\Desktop\Pscbag(16)\Pscbag\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Administrator\Desktop\Pscbag(16)\Pscbag\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Administrator\Desktop\Pscbag(16)\Pscbag\obj\Debug\net6.0\scopedcss\bundle\Pscbag.styles.css
+C:\Users\Administrator\Desktop\Pscbag(16)\Pscbag\obj\Debug\net6.0\Pscbag.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Pscbag(16)\Pscbag\obj\Debug\net6.0\Pscbag.dll
+C:\Users\Administrator\Desktop\Pscbag(16)\Pscbag\obj\Debug\net6.0\refint\Pscbag.dll
+C:\Users\Administrator\Desktop\Pscbag(16)\Pscbag\obj\Debug\net6.0\Pscbag.pdb
+C:\Users\Administrator\Desktop\Pscbag(16)\Pscbag\obj\Debug\net6.0\Pscbag.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Pscbag(16)\Pscbag\obj\Debug\net6.0\ref\Pscbag.dll
+C:\Users\Administrator\Desktop\Pscbag(16)\Pscbag\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator\Desktop\Pscbag(16)\Pscbag\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\Pscbag(17)\Pscbag\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\Desktop\Pscbag(17)\Pscbag\bin\Debug\net6.0\appsettings.json
+C:\Users\user\Desktop\Pscbag(17)\Pscbag\bin\Debug\net6.0\Pscbag.staticwebassets.runtime.json
+C:\Users\user\Desktop\Pscbag(17)\Pscbag\bin\Debug\net6.0\Pscbag.exe
+C:\Users\user\Desktop\Pscbag(17)\Pscbag\bin\Debug\net6.0\Pscbag.deps.json
+C:\Users\user\Desktop\Pscbag(17)\Pscbag\bin\Debug\net6.0\Pscbag.runtimeconfig.json
+C:\Users\user\Desktop\Pscbag(17)\Pscbag\bin\Debug\net6.0\Pscbag.dll
+C:\Users\user\Desktop\Pscbag(17)\Pscbag\bin\Debug\net6.0\Pscbag.pdb
+C:\Users\user\Desktop\Pscbag(17)\Pscbag\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\Pscbag(17)\Pscbag\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\Pscbag(17)\Pscbag\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\user\Desktop\Pscbag(17)\Pscbag\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\Pscbag(17)\Pscbag\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\Pscbag(17)\Pscbag\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\Pscbag(17)\Pscbag\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\Pscbag(17)\Pscbag\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\Pscbag(17)\Pscbag\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\user\Desktop\Pscbag(17)\Pscbag\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\Pscbag(17)\Pscbag\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\Pscbag(17)\Pscbag\obj\Debug\net6.0\Pscbag.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Pscbag(17)\Pscbag\obj\Debug\net6.0\Pscbag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Pscbag(17)\Pscbag\obj\Debug\net6.0\Pscbag.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Pscbag(17)\Pscbag\obj\Debug\net6.0\Pscbag.AssemblyInfo.cs
+C:\Users\user\Desktop\Pscbag(17)\Pscbag\obj\Debug\net6.0\Pscbag.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Pscbag(17)\Pscbag\obj\Debug\net6.0\Pscbag.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\Pscbag(17)\Pscbag\obj\Debug\net6.0\Pscbag.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\Pscbag(17)\Pscbag\obj\Debug\net6.0\Pscbag.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\Pscbag(17)\Pscbag\obj\Debug\net6.0\staticwebassets\msbuild.Pscbag.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Desktop\Pscbag(17)\Pscbag\obj\Debug\net6.0\staticwebassets\msbuild.build.Pscbag.props
+C:\Users\user\Desktop\Pscbag(17)\Pscbag\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Pscbag.props
+C:\Users\user\Desktop\Pscbag(17)\Pscbag\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Pscbag.props
+C:\Users\user\Desktop\Pscbag(17)\Pscbag\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\user\Desktop\Pscbag(17)\Pscbag\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\Desktop\Pscbag(17)\Pscbag\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\Desktop\Pscbag(17)\Pscbag\obj\Debug\net6.0\scopedcss\bundle\Pscbag.styles.css
+C:\Users\user\Desktop\Pscbag(17)\Pscbag\obj\Debug\net6.0\Pscbag.csproj.CopyComplete
+C:\Users\user\Desktop\Pscbag(17)\Pscbag\obj\Debug\net6.0\Pscbag.dll
+C:\Users\user\Desktop\Pscbag(17)\Pscbag\obj\Debug\net6.0\refint\Pscbag.dll
+C:\Users\user\Desktop\Pscbag(17)\Pscbag\obj\Debug\net6.0\Pscbag.pdb
+C:\Users\user\Desktop\Pscbag(17)\Pscbag\obj\Debug\net6.0\Pscbag.genruntimeconfig.cache
+C:\Users\user\Desktop\Pscbag(17)\Pscbag\obj\Debug\net6.0\ref\Pscbag.dll
+C:\Users\user\Desktop\Pscbag(18)\Pscbag\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\Desktop\Pscbag(18)\Pscbag\bin\Debug\net6.0\appsettings.json
+C:\Users\user\Desktop\Pscbag(18)\Pscbag\bin\Debug\net6.0\Pscbag.staticwebassets.runtime.json
+C:\Users\user\Desktop\Pscbag(18)\Pscbag\bin\Debug\net6.0\Pscbag.exe
+C:\Users\user\Desktop\Pscbag(18)\Pscbag\bin\Debug\net6.0\Pscbag.deps.json
+C:\Users\user\Desktop\Pscbag(18)\Pscbag\bin\Debug\net6.0\Pscbag.runtimeconfig.json
+C:\Users\user\Desktop\Pscbag(18)\Pscbag\bin\Debug\net6.0\Pscbag.dll
+C:\Users\user\Desktop\Pscbag(18)\Pscbag\bin\Debug\net6.0\Pscbag.pdb
+C:\Users\user\Desktop\Pscbag(18)\Pscbag\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\Pscbag(18)\Pscbag\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\Pscbag(18)\Pscbag\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\user\Desktop\Pscbag(18)\Pscbag\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\Pscbag(18)\Pscbag\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\Pscbag(18)\Pscbag\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\Pscbag(18)\Pscbag\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\Pscbag(18)\Pscbag\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\Pscbag(18)\Pscbag\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\user\Desktop\Pscbag(18)\Pscbag\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\Pscbag(18)\Pscbag\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\Pscbag(18)\Pscbag\obj\Debug\net6.0\Pscbag.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Pscbag(18)\Pscbag\obj\Debug\net6.0\Pscbag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Pscbag(18)\Pscbag\obj\Debug\net6.0\Pscbag.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Pscbag(18)\Pscbag\obj\Debug\net6.0\Pscbag.AssemblyInfo.cs
+C:\Users\user\Desktop\Pscbag(18)\Pscbag\obj\Debug\net6.0\Pscbag.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Pscbag(18)\Pscbag\obj\Debug\net6.0\Pscbag.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\Pscbag(18)\Pscbag\obj\Debug\net6.0\Pscbag.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\Pscbag(18)\Pscbag\obj\Debug\net6.0\Pscbag.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\Pscbag(18)\Pscbag\obj\Debug\net6.0\staticwebassets\msbuild.Pscbag.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Desktop\Pscbag(18)\Pscbag\obj\Debug\net6.0\staticwebassets\msbuild.build.Pscbag.props
+C:\Users\user\Desktop\Pscbag(18)\Pscbag\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Pscbag.props
+C:\Users\user\Desktop\Pscbag(18)\Pscbag\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Pscbag.props
+C:\Users\user\Desktop\Pscbag(18)\Pscbag\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\user\Desktop\Pscbag(18)\Pscbag\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\Desktop\Pscbag(18)\Pscbag\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\Desktop\Pscbag(18)\Pscbag\obj\Debug\net6.0\scopedcss\bundle\Pscbag.styles.css
+C:\Users\user\Desktop\Pscbag(18)\Pscbag\obj\Debug\net6.0\Pscbag.csproj.CopyComplete
+C:\Users\user\Desktop\Pscbag(18)\Pscbag\obj\Debug\net6.0\Pscbag.dll
+C:\Users\user\Desktop\Pscbag(18)\Pscbag\obj\Debug\net6.0\refint\Pscbag.dll
+C:\Users\user\Desktop\Pscbag(18)\Pscbag\obj\Debug\net6.0\Pscbag.pdb
+C:\Users\user\Desktop\Pscbag(18)\Pscbag\obj\Debug\net6.0\Pscbag.genruntimeconfig.cache
+C:\Users\user\Desktop\Pscbag(18)\Pscbag\obj\Debug\net6.0\ref\Pscbag.dll
+C:\Users\user\Desktop\Pscbag(19)\Pscbag\obj\Debug\net6.0\Pscbag.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Pscbag(19)\Pscbag\obj\Debug\net6.0\Pscbag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Pscbag(19)\Pscbag\obj\Debug\net6.0\Pscbag.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Pscbag(19)\Pscbag\obj\Debug\net6.0\Pscbag.AssemblyInfo.cs
+C:\Users\user\Desktop\Pscbag(19)\Pscbag\obj\Debug\net6.0\Pscbag.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Pscbag(19)\Pscbag\obj\Debug\net6.0\Pscbag.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\Pscbag(19)\Pscbag\obj\Debug\net6.0\Pscbag.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\Pscbag(19)\Pscbag\obj\Debug\net6.0\Pscbag.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\Pscbag(19)\Pscbag\obj\Debug\net6.0\Pscbag.dll
+C:\Users\user\Desktop\Pscbag(19)\Pscbag\obj\Debug\net6.0\refint\Pscbag.dll
+C:\Users\user\Desktop\Pscbag(19)\Pscbag\obj\Debug\net6.0\Pscbag.pdb
+C:\Users\user\Desktop\Pscbag(19)\Pscbag\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\Desktop\Pscbag(19)\Pscbag\bin\Debug\net6.0\appsettings.json
+C:\Users\user\Desktop\Pscbag(19)\Pscbag\bin\Debug\net6.0\Pscbag.staticwebassets.runtime.json
+C:\Users\user\Desktop\Pscbag(19)\Pscbag\bin\Debug\net6.0\Pscbag.exe
+C:\Users\user\Desktop\Pscbag(19)\Pscbag\bin\Debug\net6.0\Pscbag.deps.json
+C:\Users\user\Desktop\Pscbag(19)\Pscbag\bin\Debug\net6.0\Pscbag.runtimeconfig.json
+C:\Users\user\Desktop\Pscbag(19)\Pscbag\bin\Debug\net6.0\Pscbag.dll
+C:\Users\user\Desktop\Pscbag(19)\Pscbag\bin\Debug\net6.0\Pscbag.pdb
+C:\Users\user\Desktop\Pscbag(19)\Pscbag\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\Pscbag(19)\Pscbag\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\Pscbag(19)\Pscbag\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\user\Desktop\Pscbag(19)\Pscbag\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\Pscbag(19)\Pscbag\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\Pscbag(19)\Pscbag\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\Pscbag(19)\Pscbag\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\Pscbag(19)\Pscbag\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\Pscbag(19)\Pscbag\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\user\Desktop\Pscbag(19)\Pscbag\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\Pscbag(19)\Pscbag\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\Pscbag(19)\Pscbag\obj\Debug\net6.0\staticwebassets\msbuild.Pscbag.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Desktop\Pscbag(19)\Pscbag\obj\Debug\net6.0\staticwebassets\msbuild.build.Pscbag.props
+C:\Users\user\Desktop\Pscbag(19)\Pscbag\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Pscbag.props
+C:\Users\user\Desktop\Pscbag(19)\Pscbag\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Pscbag.props
+C:\Users\user\Desktop\Pscbag(19)\Pscbag\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\user\Desktop\Pscbag(19)\Pscbag\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\Desktop\Pscbag(19)\Pscbag\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\Desktop\Pscbag(19)\Pscbag\obj\Debug\net6.0\scopedcss\bundle\Pscbag.styles.css
+C:\Users\user\Desktop\Pscbag(19)\Pscbag\obj\Debug\net6.0\Pscbag.csproj.CopyComplete
+C:\Users\user\Desktop\Pscbag(19)\Pscbag\obj\Debug\net6.0\Pscbag.genruntimeconfig.cache
+C:\Users\user\Desktop\Pscbag(19)\Pscbag\obj\Debug\net6.0\ref\Pscbag.dll
+C:\Users\Administrator\Desktop\Pscbag(20)\Pscbag\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Administrator\Desktop\Pscbag(20)\Pscbag\bin\Debug\net6.0\appsettings.json
+C:\Users\Administrator\Desktop\Pscbag(20)\Pscbag\bin\Debug\net6.0\Pscbag.staticwebassets.runtime.json
+C:\Users\Administrator\Desktop\Pscbag(20)\Pscbag\bin\Debug\net6.0\Pscbag.exe
+C:\Users\Administrator\Desktop\Pscbag(20)\Pscbag\bin\Debug\net6.0\Pscbag.deps.json
+C:\Users\Administrator\Desktop\Pscbag(20)\Pscbag\bin\Debug\net6.0\Pscbag.runtimeconfig.json
+C:\Users\Administrator\Desktop\Pscbag(20)\Pscbag\bin\Debug\net6.0\Pscbag.dll
+C:\Users\Administrator\Desktop\Pscbag(20)\Pscbag\bin\Debug\net6.0\Pscbag.pdb
+C:\Users\Administrator\Desktop\Pscbag(20)\Pscbag\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrator\Desktop\Pscbag(20)\Pscbag\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Administrator\Desktop\Pscbag(20)\Pscbag\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Administrator\Desktop\Pscbag(20)\Pscbag\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Administrator\Desktop\Pscbag(20)\Pscbag\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrator\Desktop\Pscbag(20)\Pscbag\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Administrator\Desktop\Pscbag(20)\Pscbag\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Administrator\Desktop\Pscbag(20)\Pscbag\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Administrator\Desktop\Pscbag(20)\Pscbag\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\Administrator\Desktop\Pscbag(20)\Pscbag\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator\Desktop\Pscbag(20)\Pscbag\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Desktop\Pscbag(20)\Pscbag\obj\Debug\net6.0\Pscbag.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Pscbag(20)\Pscbag\obj\Debug\net6.0\Pscbag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Pscbag(20)\Pscbag\obj\Debug\net6.0\Pscbag.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Pscbag(20)\Pscbag\obj\Debug\net6.0\Pscbag.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Pscbag(20)\Pscbag\obj\Debug\net6.0\Pscbag.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Pscbag(20)\Pscbag\obj\Debug\net6.0\Pscbag.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Desktop\Pscbag(20)\Pscbag\obj\Debug\net6.0\Pscbag.RazorAssemblyInfo.cache
+C:\Users\Administrator\Desktop\Pscbag(20)\Pscbag\obj\Debug\net6.0\Pscbag.RazorAssemblyInfo.cs
+C:\Users\Administrator\Desktop\Pscbag(20)\Pscbag\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Administrator\Desktop\Pscbag(20)\Pscbag\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Administrator\Desktop\Pscbag(20)\Pscbag\obj\Debug\net6.0\scopedcss\bundle\Pscbag.styles.css
+C:\Users\Administrator\Desktop\Pscbag(20)\Pscbag\obj\Debug\net6.0\Pscbag.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Pscbag(20)\Pscbag\obj\Debug\net6.0\Pscbag.dll
+C:\Users\Administrator\Desktop\Pscbag(20)\Pscbag\obj\Debug\net6.0\refint\Pscbag.dll
+C:\Users\Administrator\Desktop\Pscbag(20)\Pscbag\obj\Debug\net6.0\Pscbag.pdb
+C:\Users\Administrator\Desktop\Pscbag(20)\Pscbag\obj\Debug\net6.0\Pscbag.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Pscbag(20)\Pscbag\obj\Debug\net6.0\ref\Pscbag.dll
+C:\Users\user\Desktop\Pscbag(22)\Pscbag\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\Desktop\Pscbag(22)\Pscbag\bin\Debug\net6.0\appsettings.json
+C:\Users\user\Desktop\Pscbag(22)\Pscbag\bin\Debug\net6.0\Pscbag.staticwebassets.runtime.json
+C:\Users\user\Desktop\Pscbag(22)\Pscbag\bin\Debug\net6.0\Pscbag.exe
+C:\Users\user\Desktop\Pscbag(22)\Pscbag\bin\Debug\net6.0\Pscbag.deps.json
+C:\Users\user\Desktop\Pscbag(22)\Pscbag\bin\Debug\net6.0\Pscbag.runtimeconfig.json
+C:\Users\user\Desktop\Pscbag(22)\Pscbag\bin\Debug\net6.0\Pscbag.dll
+C:\Users\user\Desktop\Pscbag(22)\Pscbag\bin\Debug\net6.0\Pscbag.pdb
+C:\Users\user\Desktop\Pscbag(22)\Pscbag\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\Pscbag(22)\Pscbag\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\Pscbag(22)\Pscbag\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\user\Desktop\Pscbag(22)\Pscbag\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\Pscbag(22)\Pscbag\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\Pscbag(22)\Pscbag\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\Pscbag(22)\Pscbag\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\Pscbag(22)\Pscbag\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\Pscbag(22)\Pscbag\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\user\Desktop\Pscbag(22)\Pscbag\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\Pscbag(22)\Pscbag\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\Pscbag(22)\Pscbag\obj\Debug\net6.0\Pscbag.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Pscbag(22)\Pscbag\obj\Debug\net6.0\Pscbag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Pscbag(22)\Pscbag\obj\Debug\net6.0\Pscbag.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Pscbag(22)\Pscbag\obj\Debug\net6.0\Pscbag.AssemblyInfo.cs
+C:\Users\user\Desktop\Pscbag(22)\Pscbag\obj\Debug\net6.0\Pscbag.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Pscbag(22)\Pscbag\obj\Debug\net6.0\Pscbag.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\Pscbag(22)\Pscbag\obj\Debug\net6.0\Pscbag.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\Pscbag(22)\Pscbag\obj\Debug\net6.0\Pscbag.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\Pscbag(22)\Pscbag\obj\Debug\net6.0\staticwebassets\msbuild.Pscbag.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Desktop\Pscbag(22)\Pscbag\obj\Debug\net6.0\staticwebassets\msbuild.build.Pscbag.props
+C:\Users\user\Desktop\Pscbag(22)\Pscbag\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Pscbag.props
+C:\Users\user\Desktop\Pscbag(22)\Pscbag\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Pscbag.props
+C:\Users\user\Desktop\Pscbag(22)\Pscbag\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\user\Desktop\Pscbag(22)\Pscbag\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\Desktop\Pscbag(22)\Pscbag\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\Desktop\Pscbag(22)\Pscbag\obj\Debug\net6.0\scopedcss\bundle\Pscbag.styles.css
+C:\Users\user\Desktop\Pscbag(22)\Pscbag\obj\Debug\net6.0\Pscbag.csproj.CopyComplete
+C:\Users\user\Desktop\Pscbag(22)\Pscbag\obj\Debug\net6.0\Pscbag.dll
+C:\Users\user\Desktop\Pscbag(22)\Pscbag\obj\Debug\net6.0\refint\Pscbag.dll
+C:\Users\user\Desktop\Pscbag(22)\Pscbag\obj\Debug\net6.0\Pscbag.pdb
+C:\Users\user\Desktop\Pscbag(22)\Pscbag\obj\Debug\net6.0\Pscbag.genruntimeconfig.cache
+C:\Users\user\Desktop\Pscbag(22)\Pscbag\obj\Debug\net6.0\ref\Pscbag.dll
+C:\Users\user\Desktop\Pscbag(23)\Pscbag\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\Desktop\Pscbag(23)\Pscbag\bin\Debug\net6.0\appsettings.json
+C:\Users\user\Desktop\Pscbag(23)\Pscbag\bin\Debug\net6.0\Pscbag.staticwebassets.runtime.json
+C:\Users\user\Desktop\Pscbag(23)\Pscbag\bin\Debug\net6.0\Pscbag.exe
+C:\Users\user\Desktop\Pscbag(23)\Pscbag\bin\Debug\net6.0\Pscbag.deps.json
+C:\Users\user\Desktop\Pscbag(23)\Pscbag\bin\Debug\net6.0\Pscbag.runtimeconfig.json
+C:\Users\user\Desktop\Pscbag(23)\Pscbag\bin\Debug\net6.0\Pscbag.dll
+C:\Users\user\Desktop\Pscbag(23)\Pscbag\bin\Debug\net6.0\Pscbag.pdb
+C:\Users\user\Desktop\Pscbag(23)\Pscbag\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\Pscbag(23)\Pscbag\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\Pscbag(23)\Pscbag\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\user\Desktop\Pscbag(23)\Pscbag\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\Pscbag(23)\Pscbag\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\Pscbag(23)\Pscbag\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\Pscbag(23)\Pscbag\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\Pscbag(23)\Pscbag\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\Pscbag(23)\Pscbag\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\user\Desktop\Pscbag(23)\Pscbag\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\Pscbag(23)\Pscbag\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\Pscbag(23)\Pscbag\obj\Debug\net6.0\Pscbag.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Pscbag(23)\Pscbag\obj\Debug\net6.0\Pscbag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Pscbag(23)\Pscbag\obj\Debug\net6.0\Pscbag.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Pscbag(23)\Pscbag\obj\Debug\net6.0\Pscbag.AssemblyInfo.cs
+C:\Users\user\Desktop\Pscbag(23)\Pscbag\obj\Debug\net6.0\Pscbag.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Pscbag(23)\Pscbag\obj\Debug\net6.0\Pscbag.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\Pscbag(23)\Pscbag\obj\Debug\net6.0\Pscbag.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\Pscbag(23)\Pscbag\obj\Debug\net6.0\Pscbag.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\Pscbag(23)\Pscbag\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\Desktop\Pscbag(23)\Pscbag\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\Desktop\Pscbag(23)\Pscbag\obj\Debug\net6.0\scopedcss\bundle\Pscbag.styles.css
+C:\Users\user\Desktop\Pscbag(23)\Pscbag\obj\Debug\net6.0\Pscbag.csproj.CopyComplete
+C:\Users\user\Desktop\Pscbag(23)\Pscbag\obj\Debug\net6.0\Pscbag.dll
+C:\Users\user\Desktop\Pscbag(23)\Pscbag\obj\Debug\net6.0\refint\Pscbag.dll
+C:\Users\user\Desktop\Pscbag(23)\Pscbag\obj\Debug\net6.0\Pscbag.pdb
+C:\Users\user\Desktop\Pscbag(23)\Pscbag\obj\Debug\net6.0\Pscbag.genruntimeconfig.cache
+C:\Users\user\Desktop\Pscbag(23)\Pscbag\obj\Debug\net6.0\ref\Pscbag.dll
+C:\Users\user\Desktop\Pscbag(24)\Pscbag\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\Desktop\Pscbag(24)\Pscbag\bin\Debug\net6.0\appsettings.json
+C:\Users\user\Desktop\Pscbag(24)\Pscbag\bin\Debug\net6.0\Pscbag.staticwebassets.runtime.json
+C:\Users\user\Desktop\Pscbag(24)\Pscbag\bin\Debug\net6.0\Pscbag.exe
+C:\Users\user\Desktop\Pscbag(24)\Pscbag\bin\Debug\net6.0\Pscbag.deps.json
+C:\Users\user\Desktop\Pscbag(24)\Pscbag\bin\Debug\net6.0\Pscbag.runtimeconfig.json
+C:\Users\user\Desktop\Pscbag(24)\Pscbag\bin\Debug\net6.0\Pscbag.dll
+C:\Users\user\Desktop\Pscbag(24)\Pscbag\bin\Debug\net6.0\Pscbag.pdb
+C:\Users\user\Desktop\Pscbag(24)\Pscbag\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\Pscbag(24)\Pscbag\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\Pscbag(24)\Pscbag\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\user\Desktop\Pscbag(24)\Pscbag\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\Pscbag(24)\Pscbag\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\Pscbag(24)\Pscbag\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\Pscbag(24)\Pscbag\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\Pscbag(24)\Pscbag\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\Pscbag(24)\Pscbag\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\user\Desktop\Pscbag(24)\Pscbag\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\Pscbag(24)\Pscbag\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\Pscbag(24)\Pscbag\obj\Debug\net6.0\Pscbag.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Pscbag(24)\Pscbag\obj\Debug\net6.0\Pscbag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Pscbag(24)\Pscbag\obj\Debug\net6.0\Pscbag.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Pscbag(24)\Pscbag\obj\Debug\net6.0\Pscbag.AssemblyInfo.cs
+C:\Users\user\Desktop\Pscbag(24)\Pscbag\obj\Debug\net6.0\Pscbag.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Pscbag(24)\Pscbag\obj\Debug\net6.0\Pscbag.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\Pscbag(24)\Pscbag\obj\Debug\net6.0\Pscbag.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\Pscbag(24)\Pscbag\obj\Debug\net6.0\Pscbag.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\Pscbag(24)\Pscbag\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\Desktop\Pscbag(24)\Pscbag\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\Desktop\Pscbag(24)\Pscbag\obj\Debug\net6.0\scopedcss\bundle\Pscbag.styles.css
+C:\Users\user\Desktop\Pscbag(24)\Pscbag\obj\Debug\net6.0\Pscbag.csproj.CopyComplete
+C:\Users\user\Desktop\Pscbag(24)\Pscbag\obj\Debug\net6.0\Pscbag.dll
+C:\Users\user\Desktop\Pscbag(24)\Pscbag\obj\Debug\net6.0\refint\Pscbag.dll
+C:\Users\user\Desktop\Pscbag(24)\Pscbag\obj\Debug\net6.0\Pscbag.pdb
+C:\Users\user\Desktop\Pscbag(24)\Pscbag\obj\Debug\net6.0\Pscbag.genruntimeconfig.cache
+C:\Users\user\Desktop\Pscbag(24)\Pscbag\obj\Debug\net6.0\ref\Pscbag.dll
+C:\Users\user\Desktop\Pscbag(25)\Pscbag\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\Desktop\Pscbag(25)\Pscbag\bin\Debug\net6.0\appsettings.json
+C:\Users\user\Desktop\Pscbag(25)\Pscbag\bin\Debug\net6.0\Pscbag.staticwebassets.runtime.json
+C:\Users\user\Desktop\Pscbag(25)\Pscbag\bin\Debug\net6.0\Pscbag.exe
+C:\Users\user\Desktop\Pscbag(25)\Pscbag\bin\Debug\net6.0\Pscbag.deps.json
+C:\Users\user\Desktop\Pscbag(25)\Pscbag\bin\Debug\net6.0\Pscbag.runtimeconfig.json
+C:\Users\user\Desktop\Pscbag(25)\Pscbag\bin\Debug\net6.0\Pscbag.dll
+C:\Users\user\Desktop\Pscbag(25)\Pscbag\bin\Debug\net6.0\Pscbag.pdb
+C:\Users\user\Desktop\Pscbag(25)\Pscbag\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\Pscbag(25)\Pscbag\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\Pscbag(25)\Pscbag\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\user\Desktop\Pscbag(25)\Pscbag\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\Pscbag(25)\Pscbag\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\Pscbag(25)\Pscbag\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\Pscbag(25)\Pscbag\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\Pscbag(25)\Pscbag\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\Pscbag(25)\Pscbag\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\user\Desktop\Pscbag(25)\Pscbag\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\Pscbag(25)\Pscbag\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\Pscbag(25)\Pscbag\obj\Debug\net6.0\Pscbag.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Pscbag(25)\Pscbag\obj\Debug\net6.0\Pscbag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Pscbag(25)\Pscbag\obj\Debug\net6.0\Pscbag.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Pscbag(25)\Pscbag\obj\Debug\net6.0\Pscbag.AssemblyInfo.cs
+C:\Users\user\Desktop\Pscbag(25)\Pscbag\obj\Debug\net6.0\Pscbag.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Pscbag(25)\Pscbag\obj\Debug\net6.0\Pscbag.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\Pscbag(25)\Pscbag\obj\Debug\net6.0\Pscbag.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\Pscbag(25)\Pscbag\obj\Debug\net6.0\Pscbag.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\Pscbag(25)\Pscbag\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\Desktop\Pscbag(25)\Pscbag\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\Desktop\Pscbag(25)\Pscbag\obj\Debug\net6.0\scopedcss\bundle\Pscbag.styles.css
+C:\Users\user\Desktop\Pscbag(25)\Pscbag\obj\Debug\net6.0\Pscbag.csproj.CopyComplete
+C:\Users\user\Desktop\Pscbag(25)\Pscbag\obj\Debug\net6.0\Pscbag.dll
+C:\Users\user\Desktop\Pscbag(25)\Pscbag\obj\Debug\net6.0\refint\Pscbag.dll
+C:\Users\user\Desktop\Pscbag(25)\Pscbag\obj\Debug\net6.0\Pscbag.pdb
+C:\Users\user\Desktop\Pscbag(25)\Pscbag\obj\Debug\net6.0\Pscbag.genruntimeconfig.cache
+C:\Users\user\Desktop\Pscbag(25)\Pscbag\obj\Debug\net6.0\ref\Pscbag.dll
+C:\Users\user\Desktop\Pscbag(26)\Pscbag\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\Desktop\Pscbag(26)\Pscbag\bin\Debug\net6.0\appsettings.json
+C:\Users\user\Desktop\Pscbag(26)\Pscbag\bin\Debug\net6.0\Pscbag.staticwebassets.runtime.json
+C:\Users\user\Desktop\Pscbag(26)\Pscbag\bin\Debug\net6.0\Pscbag.exe
+C:\Users\user\Desktop\Pscbag(26)\Pscbag\bin\Debug\net6.0\Pscbag.deps.json
+C:\Users\user\Desktop\Pscbag(26)\Pscbag\bin\Debug\net6.0\Pscbag.runtimeconfig.json
+C:\Users\user\Desktop\Pscbag(26)\Pscbag\bin\Debug\net6.0\Pscbag.dll
+C:\Users\user\Desktop\Pscbag(26)\Pscbag\bin\Debug\net6.0\Pscbag.pdb
+C:\Users\user\Desktop\Pscbag(26)\Pscbag\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\Pscbag(26)\Pscbag\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\Pscbag(26)\Pscbag\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\user\Desktop\Pscbag(26)\Pscbag\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\Pscbag(26)\Pscbag\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\Pscbag(26)\Pscbag\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\Pscbag(26)\Pscbag\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\Pscbag(26)\Pscbag\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\Pscbag(26)\Pscbag\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\user\Desktop\Pscbag(26)\Pscbag\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\Pscbag(26)\Pscbag\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\Pscbag(26)\Pscbag\obj\Debug\net6.0\Pscbag.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Pscbag(26)\Pscbag\obj\Debug\net6.0\Pscbag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Pscbag(26)\Pscbag\obj\Debug\net6.0\Pscbag.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Pscbag(26)\Pscbag\obj\Debug\net6.0\Pscbag.AssemblyInfo.cs
+C:\Users\user\Desktop\Pscbag(26)\Pscbag\obj\Debug\net6.0\Pscbag.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Pscbag(26)\Pscbag\obj\Debug\net6.0\Pscbag.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\Pscbag(26)\Pscbag\obj\Debug\net6.0\Pscbag.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\Pscbag(26)\Pscbag\obj\Debug\net6.0\Pscbag.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\Pscbag(26)\Pscbag\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\Desktop\Pscbag(26)\Pscbag\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\Desktop\Pscbag(26)\Pscbag\obj\Debug\net6.0\scopedcss\bundle\Pscbag.styles.css
+C:\Users\user\Desktop\Pscbag(26)\Pscbag\obj\Debug\net6.0\Pscbag.csproj.CopyComplete
+C:\Users\user\Desktop\Pscbag(26)\Pscbag\obj\Debug\net6.0\Pscbag.dll
+C:\Users\user\Desktop\Pscbag(26)\Pscbag\obj\Debug\net6.0\refint\Pscbag.dll
+C:\Users\user\Desktop\Pscbag(26)\Pscbag\obj\Debug\net6.0\Pscbag.pdb
+C:\Users\user\Desktop\Pscbag(26)\Pscbag\obj\Debug\net6.0\Pscbag.genruntimeconfig.cache
+C:\Users\user\Desktop\Pscbag(26)\Pscbag\obj\Debug\net6.0\ref\Pscbag.dll
+C:\Users\user\Desktop\Pscbag(27)\Pscbag\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\Desktop\Pscbag(27)\Pscbag\bin\Debug\net6.0\appsettings.json
+C:\Users\user\Desktop\Pscbag(27)\Pscbag\bin\Debug\net6.0\Pscbag.staticwebassets.runtime.json
+C:\Users\user\Desktop\Pscbag(27)\Pscbag\bin\Debug\net6.0\Pscbag.exe
+C:\Users\user\Desktop\Pscbag(27)\Pscbag\bin\Debug\net6.0\Pscbag.deps.json
+C:\Users\user\Desktop\Pscbag(27)\Pscbag\bin\Debug\net6.0\Pscbag.runtimeconfig.json
+C:\Users\user\Desktop\Pscbag(27)\Pscbag\bin\Debug\net6.0\Pscbag.dll
+C:\Users\user\Desktop\Pscbag(27)\Pscbag\bin\Debug\net6.0\Pscbag.pdb
+C:\Users\user\Desktop\Pscbag(27)\Pscbag\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\Pscbag(27)\Pscbag\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\Pscbag(27)\Pscbag\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\user\Desktop\Pscbag(27)\Pscbag\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\Pscbag(27)\Pscbag\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\Pscbag(27)\Pscbag\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\Pscbag(27)\Pscbag\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\Pscbag(27)\Pscbag\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\Pscbag(27)\Pscbag\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\user\Desktop\Pscbag(27)\Pscbag\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\Pscbag(27)\Pscbag\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\Pscbag(27)\Pscbag\obj\Debug\net6.0\Pscbag.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Pscbag(27)\Pscbag\obj\Debug\net6.0\Pscbag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Pscbag(27)\Pscbag\obj\Debug\net6.0\Pscbag.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Pscbag(27)\Pscbag\obj\Debug\net6.0\Pscbag.AssemblyInfo.cs
+C:\Users\user\Desktop\Pscbag(27)\Pscbag\obj\Debug\net6.0\Pscbag.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Pscbag(27)\Pscbag\obj\Debug\net6.0\Pscbag.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\Pscbag(27)\Pscbag\obj\Debug\net6.0\Pscbag.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\Pscbag(27)\Pscbag\obj\Debug\net6.0\Pscbag.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\Pscbag(27)\Pscbag\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\Desktop\Pscbag(27)\Pscbag\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\Desktop\Pscbag(27)\Pscbag\obj\Debug\net6.0\scopedcss\bundle\Pscbag.styles.css
+C:\Users\user\Desktop\Pscbag(27)\Pscbag\obj\Debug\net6.0\Pscbag.csproj.CopyComplete
+C:\Users\user\Desktop\Pscbag(27)\Pscbag\obj\Debug\net6.0\Pscbag.dll
+C:\Users\user\Desktop\Pscbag(27)\Pscbag\obj\Debug\net6.0\refint\Pscbag.dll
+C:\Users\user\Desktop\Pscbag(27)\Pscbag\obj\Debug\net6.0\Pscbag.pdb
+C:\Users\user\Desktop\Pscbag(27)\Pscbag\obj\Debug\net6.0\Pscbag.genruntimeconfig.cache
+C:\Users\user\Desktop\Pscbag(27)\Pscbag\obj\Debug\net6.0\ref\Pscbag.dll
+C:\Users\user\Desktop\Pscbag(30)\Pscbag\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\Desktop\Pscbag(30)\Pscbag\bin\Debug\net6.0\appsettings.json
+C:\Users\user\Desktop\Pscbag(30)\Pscbag\bin\Debug\net6.0\Pscbag.staticwebassets.runtime.json
+C:\Users\user\Desktop\Pscbag(30)\Pscbag\bin\Debug\net6.0\Pscbag.exe
+C:\Users\user\Desktop\Pscbag(30)\Pscbag\bin\Debug\net6.0\Pscbag.deps.json
+C:\Users\user\Desktop\Pscbag(30)\Pscbag\bin\Debug\net6.0\Pscbag.runtimeconfig.json
+C:\Users\user\Desktop\Pscbag(30)\Pscbag\bin\Debug\net6.0\Pscbag.dll
+C:\Users\user\Desktop\Pscbag(30)\Pscbag\bin\Debug\net6.0\Pscbag.pdb
+C:\Users\user\Desktop\Pscbag(30)\Pscbag\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\Pscbag(30)\Pscbag\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\Pscbag(30)\Pscbag\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\user\Desktop\Pscbag(30)\Pscbag\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\Pscbag(30)\Pscbag\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\Pscbag(30)\Pscbag\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\Pscbag(30)\Pscbag\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\Pscbag(30)\Pscbag\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\Pscbag(30)\Pscbag\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\user\Desktop\Pscbag(30)\Pscbag\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\Pscbag(30)\Pscbag\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\Pscbag(30)\Pscbag\obj\Debug\net6.0\Pscbag.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Pscbag(30)\Pscbag\obj\Debug\net6.0\Pscbag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Pscbag(30)\Pscbag\obj\Debug\net6.0\Pscbag.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Pscbag(30)\Pscbag\obj\Debug\net6.0\Pscbag.AssemblyInfo.cs
+C:\Users\user\Desktop\Pscbag(30)\Pscbag\obj\Debug\net6.0\Pscbag.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Pscbag(30)\Pscbag\obj\Debug\net6.0\Pscbag.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\Pscbag(30)\Pscbag\obj\Debug\net6.0\Pscbag.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\Pscbag(30)\Pscbag\obj\Debug\net6.0\Pscbag.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\Pscbag(30)\Pscbag\obj\Debug\net6.0\staticwebassets\msbuild.Pscbag.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Desktop\Pscbag(30)\Pscbag\obj\Debug\net6.0\staticwebassets\msbuild.build.Pscbag.props
+C:\Users\user\Desktop\Pscbag(30)\Pscbag\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Pscbag.props
+C:\Users\user\Desktop\Pscbag(30)\Pscbag\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Pscbag.props
+C:\Users\user\Desktop\Pscbag(30)\Pscbag\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\user\Desktop\Pscbag(30)\Pscbag\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\Desktop\Pscbag(30)\Pscbag\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\Desktop\Pscbag(30)\Pscbag\obj\Debug\net6.0\scopedcss\bundle\Pscbag.styles.css
+C:\Users\user\Desktop\Pscbag(30)\Pscbag\obj\Debug\net6.0\Pscbag.csproj.CopyComplete
+C:\Users\user\Desktop\Pscbag(30)\Pscbag\obj\Debug\net6.0\Pscbag.dll
+C:\Users\user\Desktop\Pscbag(30)\Pscbag\obj\Debug\net6.0\refint\Pscbag.dll
+C:\Users\user\Desktop\Pscbag(30)\Pscbag\obj\Debug\net6.0\Pscbag.pdb
+C:\Users\user\Desktop\Pscbag(30)\Pscbag\obj\Debug\net6.0\Pscbag.genruntimeconfig.cache
+C:\Users\user\Desktop\Pscbag(30)\Pscbag\obj\Debug\net6.0\ref\Pscbag.dll
+C:\Users\Administrator\Desktop\Pscbag(31)\Pscbag\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Administrator\Desktop\Pscbag(31)\Pscbag\bin\Debug\net6.0\appsettings.json
+C:\Users\Administrator\Desktop\Pscbag(31)\Pscbag\bin\Debug\net6.0\Pscbag.staticwebassets.runtime.json
+C:\Users\Administrator\Desktop\Pscbag(31)\Pscbag\bin\Debug\net6.0\Pscbag.exe
+C:\Users\Administrator\Desktop\Pscbag(31)\Pscbag\bin\Debug\net6.0\Pscbag.deps.json
+C:\Users\Administrator\Desktop\Pscbag(31)\Pscbag\bin\Debug\net6.0\Pscbag.runtimeconfig.json
+C:\Users\Administrator\Desktop\Pscbag(31)\Pscbag\bin\Debug\net6.0\Pscbag.dll
+C:\Users\Administrator\Desktop\Pscbag(31)\Pscbag\bin\Debug\net6.0\Pscbag.pdb
+C:\Users\Administrator\Desktop\Pscbag(31)\Pscbag\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrator\Desktop\Pscbag(31)\Pscbag\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Administrator\Desktop\Pscbag(31)\Pscbag\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Administrator\Desktop\Pscbag(31)\Pscbag\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Administrator\Desktop\Pscbag(31)\Pscbag\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrator\Desktop\Pscbag(31)\Pscbag\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Administrator\Desktop\Pscbag(31)\Pscbag\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Administrator\Desktop\Pscbag(31)\Pscbag\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Administrator\Desktop\Pscbag(31)\Pscbag\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\Administrator\Desktop\Pscbag(31)\Pscbag\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator\Desktop\Pscbag(31)\Pscbag\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Desktop\Pscbag(31)\Pscbag\obj\Debug\net6.0\Pscbag.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Pscbag(31)\Pscbag\obj\Debug\net6.0\Pscbag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Pscbag(31)\Pscbag\obj\Debug\net6.0\Pscbag.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Pscbag(31)\Pscbag\obj\Debug\net6.0\Pscbag.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Pscbag(31)\Pscbag\obj\Debug\net6.0\Pscbag.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Pscbag(31)\Pscbag\obj\Debug\net6.0\Pscbag.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Desktop\Pscbag(31)\Pscbag\obj\Debug\net6.0\Pscbag.RazorAssemblyInfo.cache
+C:\Users\Administrator\Desktop\Pscbag(31)\Pscbag\obj\Debug\net6.0\Pscbag.RazorAssemblyInfo.cs
+C:\Users\Administrator\Desktop\Pscbag(31)\Pscbag\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Administrator\Desktop\Pscbag(31)\Pscbag\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Administrator\Desktop\Pscbag(31)\Pscbag\obj\Debug\net6.0\scopedcss\bundle\Pscbag.styles.css
+C:\Users\Administrator\Desktop\Pscbag(31)\Pscbag\obj\Debug\net6.0\Pscbag.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Pscbag(31)\Pscbag\obj\Debug\net6.0\Pscbag.dll
+C:\Users\Administrator\Desktop\Pscbag(31)\Pscbag\obj\Debug\net6.0\refint\Pscbag.dll
+C:\Users\Administrator\Desktop\Pscbag(31)\Pscbag\obj\Debug\net6.0\Pscbag.pdb
+C:\Users\Administrator\Desktop\Pscbag(31)\Pscbag\obj\Debug\net6.0\Pscbag.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Pscbag(31)\Pscbag\obj\Debug\net6.0\ref\Pscbag.dll
+C:\Users\Administrator\Desktop\Pscbag(32)\Pscbag\obj\Debug\net6.0\Pscbag.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Pscbag(32)\Pscbag\obj\Debug\net6.0\Pscbag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Pscbag(32)\Pscbag\obj\Debug\net6.0\Pscbag.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Pscbag(32)\Pscbag\obj\Debug\net6.0\Pscbag.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Pscbag(32)\Pscbag\obj\Debug\net6.0\Pscbag.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Pscbag(32)\Pscbag\obj\Debug\net6.0\Pscbag.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Desktop\Pscbag(32)\Pscbag\obj\Debug\net6.0\Pscbag.RazorAssemblyInfo.cache
+C:\Users\Administrator\Desktop\Pscbag(32)\Pscbag\obj\Debug\net6.0\Pscbag.RazorAssemblyInfo.cs
+C:\Users\Administrator\Desktop\Pscbag(32)\Pscbag\obj\Debug\net6.0\Pscbag.dll
+C:\Users\Administrator\Desktop\Pscbag(32)\Pscbag\obj\Debug\net6.0\refint\Pscbag.dll
+C:\Users\Administrator\Desktop\Pscbag(32)\Pscbag\obj\Debug\net6.0\Pscbag.pdb
+C:\Users\Administrator\Desktop\Pscbag(32)\Pscbag\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Administrator\Desktop\Pscbag(32)\Pscbag\bin\Debug\net6.0\appsettings.json
+C:\Users\Administrator\Desktop\Pscbag(32)\Pscbag\bin\Debug\net6.0\Pscbag.staticwebassets.runtime.json
+C:\Users\Administrator\Desktop\Pscbag(32)\Pscbag\bin\Debug\net6.0\Pscbag.exe
+C:\Users\Administrator\Desktop\Pscbag(32)\Pscbag\bin\Debug\net6.0\Pscbag.deps.json
+C:\Users\Administrator\Desktop\Pscbag(32)\Pscbag\bin\Debug\net6.0\Pscbag.runtimeconfig.json
+C:\Users\Administrator\Desktop\Pscbag(32)\Pscbag\bin\Debug\net6.0\Pscbag.dll
+C:\Users\Administrator\Desktop\Pscbag(32)\Pscbag\bin\Debug\net6.0\Pscbag.pdb
+C:\Users\Administrator\Desktop\Pscbag(32)\Pscbag\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrator\Desktop\Pscbag(32)\Pscbag\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Administrator\Desktop\Pscbag(32)\Pscbag\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Administrator\Desktop\Pscbag(32)\Pscbag\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Administrator\Desktop\Pscbag(32)\Pscbag\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrator\Desktop\Pscbag(32)\Pscbag\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Administrator\Desktop\Pscbag(32)\Pscbag\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Administrator\Desktop\Pscbag(32)\Pscbag\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Administrator\Desktop\Pscbag(32)\Pscbag\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\Administrator\Desktop\Pscbag(32)\Pscbag\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator\Desktop\Pscbag(32)\Pscbag\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Desktop\Pscbag(32)\Pscbag\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Administrator\Desktop\Pscbag(32)\Pscbag\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Administrator\Desktop\Pscbag(32)\Pscbag\obj\Debug\net6.0\scopedcss\bundle\Pscbag.styles.css
+C:\Users\Administrator\Desktop\Pscbag(32)\Pscbag\obj\Debug\net6.0\Pscbag.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Pscbag(32)\Pscbag\obj\Debug\net6.0\Pscbag.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Pscbag(32)\Pscbag\obj\Debug\net6.0\ref\Pscbag.dll
+C:\Users\Administrator\Desktop\Pscbag(33)\Pscbag\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Administrator\Desktop\Pscbag(33)\Pscbag\bin\Debug\net6.0\appsettings.json
+C:\Users\Administrator\Desktop\Pscbag(33)\Pscbag\bin\Debug\net6.0\Pscbag.staticwebassets.runtime.json
+C:\Users\Administrator\Desktop\Pscbag(33)\Pscbag\bin\Debug\net6.0\Pscbag.exe
+C:\Users\Administrator\Desktop\Pscbag(33)\Pscbag\bin\Debug\net6.0\Pscbag.deps.json
+C:\Users\Administrator\Desktop\Pscbag(33)\Pscbag\bin\Debug\net6.0\Pscbag.runtimeconfig.json
+C:\Users\Administrator\Desktop\Pscbag(33)\Pscbag\bin\Debug\net6.0\Pscbag.dll
+C:\Users\Administrator\Desktop\Pscbag(33)\Pscbag\bin\Debug\net6.0\Pscbag.pdb
+C:\Users\Administrator\Desktop\Pscbag(33)\Pscbag\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrator\Desktop\Pscbag(33)\Pscbag\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Administrator\Desktop\Pscbag(33)\Pscbag\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Administrator\Desktop\Pscbag(33)\Pscbag\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Administrator\Desktop\Pscbag(33)\Pscbag\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrator\Desktop\Pscbag(33)\Pscbag\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Administrator\Desktop\Pscbag(33)\Pscbag\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Administrator\Desktop\Pscbag(33)\Pscbag\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Administrator\Desktop\Pscbag(33)\Pscbag\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\Administrator\Desktop\Pscbag(33)\Pscbag\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator\Desktop\Pscbag(33)\Pscbag\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Desktop\Pscbag(33)\Pscbag\obj\Debug\net6.0\Pscbag.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Pscbag(33)\Pscbag\obj\Debug\net6.0\Pscbag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Pscbag(33)\Pscbag\obj\Debug\net6.0\Pscbag.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Pscbag(33)\Pscbag\obj\Debug\net6.0\Pscbag.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Pscbag(33)\Pscbag\obj\Debug\net6.0\Pscbag.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Pscbag(33)\Pscbag\obj\Debug\net6.0\Pscbag.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Desktop\Pscbag(33)\Pscbag\obj\Debug\net6.0\Pscbag.RazorAssemblyInfo.cache
+C:\Users\Administrator\Desktop\Pscbag(33)\Pscbag\obj\Debug\net6.0\Pscbag.RazorAssemblyInfo.cs
+C:\Users\Administrator\Desktop\Pscbag(33)\Pscbag\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Administrator\Desktop\Pscbag(33)\Pscbag\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Administrator\Desktop\Pscbag(33)\Pscbag\obj\Debug\net6.0\scopedcss\bundle\Pscbag.styles.css
+C:\Users\Administrator\Desktop\Pscbag(33)\Pscbag\obj\Debug\net6.0\Pscbag.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Pscbag(33)\Pscbag\obj\Debug\net6.0\Pscbag.dll
+C:\Users\Administrator\Desktop\Pscbag(33)\Pscbag\obj\Debug\net6.0\refint\Pscbag.dll
+C:\Users\Administrator\Desktop\Pscbag(33)\Pscbag\obj\Debug\net6.0\Pscbag.pdb
+C:\Users\Administrator\Desktop\Pscbag(33)\Pscbag\obj\Debug\net6.0\Pscbag.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Pscbag(33)\Pscbag\obj\Debug\net6.0\ref\Pscbag.dll
+C:\Users\user\Desktop\Pscbag(34)\Pscbag\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\Desktop\Pscbag(34)\Pscbag\bin\Debug\net6.0\appsettings.json
+C:\Users\user\Desktop\Pscbag(34)\Pscbag\bin\Debug\net6.0\Pscbag.staticwebassets.runtime.json
+C:\Users\user\Desktop\Pscbag(34)\Pscbag\bin\Debug\net6.0\Pscbag.exe
+C:\Users\user\Desktop\Pscbag(34)\Pscbag\bin\Debug\net6.0\Pscbag.deps.json
+C:\Users\user\Desktop\Pscbag(34)\Pscbag\bin\Debug\net6.0\Pscbag.runtimeconfig.json
+C:\Users\user\Desktop\Pscbag(34)\Pscbag\bin\Debug\net6.0\Pscbag.dll
+C:\Users\user\Desktop\Pscbag(34)\Pscbag\bin\Debug\net6.0\Pscbag.pdb
+C:\Users\user\Desktop\Pscbag(34)\Pscbag\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\Pscbag(34)\Pscbag\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\Pscbag(34)\Pscbag\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\user\Desktop\Pscbag(34)\Pscbag\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\Pscbag(34)\Pscbag\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\Pscbag(34)\Pscbag\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\Pscbag(34)\Pscbag\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\Pscbag(34)\Pscbag\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\Pscbag(34)\Pscbag\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\user\Desktop\Pscbag(34)\Pscbag\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\Pscbag(34)\Pscbag\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\Pscbag(34)\Pscbag\obj\Debug\net6.0\Pscbag.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Pscbag(34)\Pscbag\obj\Debug\net6.0\Pscbag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Pscbag(34)\Pscbag\obj\Debug\net6.0\Pscbag.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Pscbag(34)\Pscbag\obj\Debug\net6.0\Pscbag.AssemblyInfo.cs
+C:\Users\user\Desktop\Pscbag(34)\Pscbag\obj\Debug\net6.0\Pscbag.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Pscbag(34)\Pscbag\obj\Debug\net6.0\Pscbag.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\Pscbag(34)\Pscbag\obj\Debug\net6.0\Pscbag.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\Pscbag(34)\Pscbag\obj\Debug\net6.0\Pscbag.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\Pscbag(34)\Pscbag\obj\Debug\net6.0\staticwebassets\msbuild.Pscbag.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Desktop\Pscbag(34)\Pscbag\obj\Debug\net6.0\staticwebassets\msbuild.build.Pscbag.props
+C:\Users\user\Desktop\Pscbag(34)\Pscbag\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Pscbag.props
+C:\Users\user\Desktop\Pscbag(34)\Pscbag\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Pscbag.props
+C:\Users\user\Desktop\Pscbag(34)\Pscbag\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\user\Desktop\Pscbag(34)\Pscbag\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\Desktop\Pscbag(34)\Pscbag\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\Desktop\Pscbag(34)\Pscbag\obj\Debug\net6.0\scopedcss\bundle\Pscbag.styles.css
+C:\Users\user\Desktop\Pscbag(34)\Pscbag\obj\Debug\net6.0\Pscbag.csproj.CopyComplete
+C:\Users\user\Desktop\Pscbag(34)\Pscbag\obj\Debug\net6.0\Pscbag.dll
+C:\Users\user\Desktop\Pscbag(34)\Pscbag\obj\Debug\net6.0\refint\Pscbag.dll
+C:\Users\user\Desktop\Pscbag(34)\Pscbag\obj\Debug\net6.0\Pscbag.pdb
+C:\Users\user\Desktop\Pscbag(34)\Pscbag\obj\Debug\net6.0\Pscbag.genruntimeconfig.cache
+C:\Users\user\Desktop\Pscbag(34)\Pscbag\obj\Debug\net6.0\ref\Pscbag.dll
+F:\school Download\Pscbag(35)\Pscbag\bin\Debug\net6.0\appsettings.Development.json
+F:\school Download\Pscbag(35)\Pscbag\bin\Debug\net6.0\appsettings.json
+F:\school Download\Pscbag(35)\Pscbag\bin\Debug\net6.0\Pscbag.staticwebassets.runtime.json
+F:\school Download\Pscbag(35)\Pscbag\bin\Debug\net6.0\Pscbag.exe
+F:\school Download\Pscbag(35)\Pscbag\bin\Debug\net6.0\Pscbag.deps.json
+F:\school Download\Pscbag(35)\Pscbag\bin\Debug\net6.0\Pscbag.runtimeconfig.json
+F:\school Download\Pscbag(35)\Pscbag\bin\Debug\net6.0\Pscbag.dll
+F:\school Download\Pscbag(35)\Pscbag\bin\Debug\net6.0\Pscbag.pdb
+F:\school Download\Pscbag(35)\Pscbag\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\school Download\Pscbag(35)\Pscbag\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\school Download\Pscbag(35)\Pscbag\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\school Download\Pscbag(35)\Pscbag\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\school Download\Pscbag(35)\Pscbag\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\school Download\Pscbag(35)\Pscbag\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\school Download\Pscbag(35)\Pscbag\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\school Download\Pscbag(35)\Pscbag\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\school Download\Pscbag(35)\Pscbag\bin\Debug\net6.0\MySql.Data.dll
+F:\school Download\Pscbag(35)\Pscbag\obj\Debug\net6.0\Pscbag.csproj.AssemblyReference.cache
+F:\school Download\Pscbag(35)\Pscbag\obj\Debug\net6.0\Pscbag.GeneratedMSBuildEditorConfig.editorconfig
+F:\school Download\Pscbag(35)\Pscbag\obj\Debug\net6.0\Pscbag.AssemblyInfoInputs.cache
+F:\school Download\Pscbag(35)\Pscbag\obj\Debug\net6.0\Pscbag.AssemblyInfo.cs
+F:\school Download\Pscbag(35)\Pscbag\obj\Debug\net6.0\Pscbag.csproj.CoreCompileInputs.cache
+F:\school Download\Pscbag(35)\Pscbag\obj\Debug\net6.0\Pscbag.MvcApplicationPartsAssemblyInfo.cache
+F:\school Download\Pscbag(35)\Pscbag\obj\Debug\net6.0\Pscbag.RazorAssemblyInfo.cache
+F:\school Download\Pscbag(35)\Pscbag\obj\Debug\net6.0\Pscbag.RazorAssemblyInfo.cs
+F:\school Download\Pscbag(35)\Pscbag\obj\Debug\net6.0\staticwebassets\msbuild.Pscbag.Microsoft.AspNetCore.StaticWebAssets.props
+F:\school Download\Pscbag(35)\Pscbag\obj\Debug\net6.0\staticwebassets\msbuild.build.Pscbag.props
+F:\school Download\Pscbag(35)\Pscbag\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Pscbag.props
+F:\school Download\Pscbag(35)\Pscbag\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Pscbag.props
+F:\school Download\Pscbag(35)\Pscbag\obj\Debug\net6.0\staticwebassets.pack.json
+F:\school Download\Pscbag(35)\Pscbag\obj\Debug\net6.0\staticwebassets.build.json
+F:\school Download\Pscbag(35)\Pscbag\obj\Debug\net6.0\staticwebassets.development.json
+F:\school Download\Pscbag(35)\Pscbag\obj\Debug\net6.0\scopedcss\bundle\Pscbag.styles.css
+F:\school Download\Pscbag(35)\Pscbag\obj\Debug\net6.0\Pscbag.csproj.CopyComplete
+F:\school Download\Pscbag(35)\Pscbag\obj\Debug\net6.0\Pscbag.dll
+F:\school Download\Pscbag(35)\Pscbag\obj\Debug\net6.0\refint\Pscbag.dll
+F:\school Download\Pscbag(35)\Pscbag\obj\Debug\net6.0\Pscbag.pdb
+F:\school Download\Pscbag(35)\Pscbag\obj\Debug\net6.0\Pscbag.genruntimeconfig.cache
+F:\school Download\Pscbag(35)\Pscbag\obj\Debug\net6.0\ref\Pscbag.dll
+F:\school Download\Pscbag(35)\Pscbag\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\school Download\Pscbag(35)\Pscbag\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll

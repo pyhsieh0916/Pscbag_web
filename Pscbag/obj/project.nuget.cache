@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "4u1en8bwGKZwFaJS9ybpThOrVNQNq8ADknwpdHge0jhlW9FBABsUMXl301FeSXpr8Axg2ZAZZniKc51fewufWQ==",
+  "success": true,
+  "projectFilePath": "F:\\school Download\\Pscbag(35)\\Pscbag\\Pscbag.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0-preview.6.21352.12\\microsoft.win32.systemevents.6.0.0-preview.6.21352.12.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.drawing.common\\6.0.0-preview.6.21352.12\\system.drawing.common.6.0.0-preview.6.21352.12.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.security.permissions\\6.0.0-preview.6.21352.12\\system.security.permissions.6.0.0-preview.6.21352.12.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.windows.extensions\\6.0.0-preview.6.21352.12\\system.windows.extensions.6.0.0-preview.6.21352.12.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,763 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+    <title>老包的店</title>
+    <!-- Bootstrap icons-->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" rel="stylesheet" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <!-- Core theme CSS (includes Bootstrap)-->
+    <link href="~/css/site.css" rel="stylesheet" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
+    <style>
+        body {
+            height: inherit;
+        }
+
+        html {
+            height: inherit;
+        }
+
+        @@mediaonlyscreenand (min-width: 769px) {
+            html {
+                height: inherit;
+                font-size: 30px;
+            }
+        }
+
+        @@media only screen and (min-width: 0px) and (max-width:768px) {
+            html {
+                height: inherit;
+                font-size: 10px;
+            }
+        }
+
+        main {
+            height: auto;
+            max-height: auto;
+            overflow-x: auto;
+            overflow-y: hidden;
+        }
+
+        .grpqtyAdd {
+        }
+
+        .grpqtyAddTen {
+        }
+
+        .grpqtyDelete {
+        }
+
+        .grpqtyDeleteTen {
+        }
+
+        .dropdown-toggle {
+            outline: 0;
+        }
+
+
+        .btnbagtxt {
+            font-size: 10px;
+        }
+
+        .btn-toggle {
+            padding: .25rem .5rem;
+            font-weight: 600;
+            color: rgba(0, 0, 0, .65);
+            background-color: transparent;
+        }
+
+            .btn-toggle:hover,
+            .btn-toggle:focus {
+                color: rgba(0, 0, 0, .85);
+                background-color: #d2f4ea;
+            }
+
+            .btn-toggle::before {
+                width: 1.25em;
+                line-height: 0;
+                content: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16'%3e%3cpath fill='none' stroke='rgba%280,0,0,.5%29' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M5 14l6-6-6-6'/%3e%3c/svg%3e");
+                transition: transform .35s ease;
+                transform-origin: .5em 50%;
+            }
+
+            .btn-toggle[aria-expanded="true"] {
+                color: rgba(0, 0, 0, .85);
+            }
+
+                .btn-toggle[aria-expanded="true"]::before {
+                    transform: rotate(90deg);
+                }
+
+        .btn-toggle-nav a {
+            padding: .1875rem .5rem;
+            margin-top: .125rem;
+            margin-left: 1.25rem;
+        }
+
+            .btn-toggle-nav a:hover,
+            .btn-toggle-nav a:focus {
+                background-color: #d2f4ea;
+            }
+
+        .scrollarea {
+            overflow-y: auto;
+        }
+
+        .badge-notify {
+            background: red;
+            position: relative;
+            top: -20px;
+        }
+
+        .my-cart-btn {
+        }
+
+        .my-cart-icon-affix {
+            z-index: 999;
+        }
+
+    </style>
+</head>
+
+<body>
+    <!-- Navigation-->
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <div class="container px-4 px-lg-5">
+            <a class="bi bi-bag-fill navbar-brand" href="/Home">PscBag</a>
+            <button class="btn btn-outline-dark my-cart-icon">
+                <i class="bi-cart-fill me-1"></i>
+                購物車
+                <span class="text-white ms-1 rounded-pill badge badge-notify my-cart-badge"></span>
+            </button>
+        </div>
+    </nav>
+    <!-- Header-->
+    <header class="bg-dark py-1">
+    </header>
+
+    <div class="container">
+        <div class="row">
+            @*左邊*@
+            <div class="p-3 bg-white col-md-3 col-3 col-xl-3">
+                <a href="/" class="d-flex align-items-center pb-3 mb-3 link-dark text-decoration-none border-bottom">
+                    <svg class="bi pe-none me-2" width="30" height="24"><use xlink:href="#bootstrap" /></svg>
+                    <span class="fs-5 fw-semibold">袋</span>
+                </a>
+                <ul class="list-unstyled ps-0 ">
+                    <li class="mb-1">
+                        <button class="btn btn-toggle d-inline-flex align-items-center rounded border-0" data-bs-toggle="collapse" data-bs-target="#home-collapse" aria-expanded="true">
+                            提袋
+                        </button>
+                        <div class="collapse show" id="home-collapse">
+                            <ul class="btn-toggle-nav list-unstyled fw-normal pb-1 small">
+                                <li><a href="/home/HandBag" class="link-dark d-inline-flex text-decoration-none rounded" id="Hand-Bag">提袋</a></li>
+                                <li><a href="/home/StripedBag" class="link-dark d-inline-flex text-decoration-none rounded" id="Striped-Bag">條紋</a></li>
+                                <li><a href="/home/WhitedBag" class="link-dark d-inline-flex text-decoration-none rounded" id="White-Bag">全白</a></li>
+                                <li><a href="/home/OtherBag" class="link-dark d-inline-flex text-decoration-none rounded" id="Other-Bag">其他</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li class="mb-1">
+                        <button class="btn btn-toggle d-inline-flex align-items-center rounded border-0" data-bs-toggle="collapse" data-bs-target="#dashboard-collapse" aria-expanded="true">
+                            內袋
+                        </button>
+                        <div class="collapse show" id="dashboard-collapse">
+                            <ul class="btn-toggle-nav list-unstyled fw-normal pb-1 small">
+                                <li><a href="/home/InnerBag" class="link-dark d-inline-flex text-decoration-none rounded" id="Inner-bag">內袋</a></li>
+                                <li><a href="/home/ThreadingBag" class="link-dark d-inline-flex text-decoration-none rounded" id="Threading-bag">穿絲</a></li>
+                                <li><a href="/home/HangingBag" class="link-dark d-inline-flex text-decoration-none rounded" id="Hanging-bag">吊袋</a></li>
+                                <li><a href="/home/Smallroll" class="link-dark d-inline-flex text-decoration-none rounded" id="Smallroll-bag">小捲袋</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li class="border-top my-3"></li>
+                    <li class="mb-1">
+                        <button class="btn btn-toggle d-inline-flex align-items-center rounded border-0" data-bs-toggle="collapse" data-bs-target="#hot-collapse" aria-expanded="true">
+                            耐熱
+                        </button>
+                        <div class="collapse show" id="hot-collapse">
+                            <ul class="btn-toggle-nav list-unstyled fw-normal pb-1 small">
+                                <li><a href="/home/PPhot" class="link-dark d-inline-flex text-decoration-none rounded" id="PP-hot">PP耐熱</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li class="mb-1">
+                        <button class="btn btn-toggle d-inline-flex align-items-center rounded border-0" data-bs-toggle="collapse" data-bs-target="#cold-collapse" aria-expanded="true">
+                            耐冷
+                        </button>
+                        <div class="collapse show" id="cold-collapse">
+                            <ul class="btn-toggle-nav list-unstyled fw-normal pb-1 small">
+                                <li><a href="/home/PEflower" class="link-dark d-inline-flex text-decoration-none rounded" id="PE-flower">PE花果</a></li>
+                                <li><a href="/home/PEcow" class="link-dark d-inline-flex text-decoration-none rounded" id="PE-cow">PE牛頭</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li class="border-top my-3"></li>
+                    <li class="mb-1">
+                        <button class="btn btn-toggle d-inline-flex align-items-center rounded border-0" data-bs-toggle="collapse" data-bs-target="#else-collapse" aria-expanded="true">
+                            其他
+                        </button>
+                        <div class="collapse show" id="else-collapse">
+                            <ul class="btn-toggle-nav list-unstyled fw-normal pb-1 small">
+                                <li><a href="/home/Elseelse" class="link-dark d-inline-flex text-decoration-none rounded" id="Else-else">其他</a></li>
+                                <li><a href="/home/rubberband" class="link-dark d-inline-flex text-decoration-none rounded" id="Else-rubber-band">橡皮筋</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li class="mb-1">
+                        <button class="btn btn-toggle d-inline-flex align-items-center rounded border-0 " data-bs-toggle="collapse" data-bs-target="#gr-collapse" aria-expanded="true">
+                            垃圾袋
+                        </button>
+                        <div class="collapse show" id="gr-collapse">
+                            <ul class="btn-toggle-nav list-unstyled fw-normal pb-1 small">
+                                <li><a href="/home/trash" class="link-dark d-inline-flex text-decoration-none rounded" id="trash-bag">垃圾袋</a></li>
+                            </ul>
+                        </div>
+                    </li>
+
+
+                    <li class="border-top my-3"></li>
+                    <li class="mb-1">
+                        <ul class="btn-toggle-nav list-unstyled fw-normal pb-1 small">
+                            <li><a href="/home/contact_us" class="link-dark d-inline-flex text-decoration-none rounded" id="trash-bag">聯絡我們</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+
+
+
+
+            @*耐冷-PE牛頭*@
+            <div class="p-3 bg-white col-md-9 col-9 col-xl-9 container" id="PEcow-Bag-card">
+
+                
+                <nav style="--bs-breadcrumb-divider: '>';" aria-label="breadcrumb">
+                    <ol class="breadcrumb">
+                        <li class="breadcrumb-item active" aria-current="page">耐冷</li>
+                        <li class="breadcrumb-item active" aria-current="page">PE牛頭</li>
+                    </ol>
+                </nav>
+
+
+
+                <div class="row">
+
+
+
+                    @*耐冷-PE牛頭-半斤捲*@
+                    <div class="col-md-3 mb-3" style="height:auto;width:250px;">
+                        <div class="card">
+                            <!-- Product image-->
+                            <img class="card-img-top" src="~/images/耐冷/PE牛頭/半斤捲.jpg" alt="..." />
+                            <!-- Product details-->
+                            <div class="card-body p-4" align=center>
+                                <div class="text-center">
+                                    <!-- Product name-->
+                                    <h2 class="fw-bolder">PE牛頭-半斤捲<br></h2>
+                                    <h4 class="fw-bolder">$210</h4>
+                                </div>
+                                <div class="text-center">
+                                    <a>數量:</a>
+                                    <input name="PEcow-Half-Jin-roll" disabled value="1" style="text-align:center;width:50%" />
+                                </div>
+                            </div>
+                            <!-- Product actions-->
+                            <div class="card-footer p-2 pt-0 border-top-0 bg-transparen" align="center">
+                                <button type="button" class="btn btn-dark btnbagtxt grpqtyDeleteTen"    field='PEcow-Half-Jin-roll'>－5</button>
+                                <button type="button" class="btn btn-secondary btnbagtxt grpqtyDelete"  field='PEcow-Half-Jin-roll'>－</button>
+                                <button type="button" class="btn btn-secondary btnbagtxt grpqtyAdd"     field='PEcow-Half-Jin-roll'>＋</button>
+                                <button type="button" class="btn btn-dark btnbagtxt grpqtyAddTen"       field='PEcow-Half-Jin-roll'>＋5</button>
+                            </div>
+                            <div class="p-1" align="center">
+                                <button class="my-cart-btn btn btn btn-success w-50" data-id="72" data-name="PE牛頭-半斤捲" data-price="210" data-quantity='1' data-image="" data-field='PEcow-Half-Jin-roll'>加入</button>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    @*耐冷-PE牛頭-1斤捲*@
+                    <div class="col-md-3 mb-3" style="height:auto;width:250px;">
+                        <div class="card">
+                            <!-- Product image-->
+                            <img class="card-img-top" src="~/images/耐冷/PE牛頭/1斤捲.jpg" alt="..." />
+                            <!-- Product details-->
+                            <div class="card-body p-4" align=center>
+                                <div class="text-center">
+                                    <!-- Product name-->
+                                    <h2 class="fw-bolder">PE牛頭-1斤捲<br></h2>
+                                    <h4 class="fw-bolder">$210</h4>
+                                </div>
+                                <div class="text-center">
+                                    <a>數量:</a>
+                                    <input name="PEcow-One-Jin-roll" disabled value="1" style="text-align:center;width:50%" />
+                                </div>
+                            </div>
+                            <!-- Product actions-->
+                            <div class="card-footer p-2 pt-0 border-top-0 bg-transparen" align="center">
+                                <button type="button" class="btn btn-dark btnbagtxt grpqtyDeleteTen"    field='PEcow-One-Jin-roll'>－5</button>
+                                <button type="button" class="btn btn-secondary btnbagtxt grpqtyDelete"  field='PEcow-One-Jin-roll'>－</button>
+                                <button type="button" class="btn btn-secondary btnbagtxt grpqtyAdd"     field='PEcow-One-Jin-roll'>＋</button>
+                                <button type="button" class="btn btn-dark btnbagtxt grpqtyAddTen"       field='PEcow-One-Jin-roll'>＋5</button>
+                            </div>
+                            <div class="p-1" align="center">
+                                <button class="my-cart-btn btn btn btn-success w-50" data-id="73" data-name="PE牛頭-1斤捲" data-price="210" data-quantity='1' data-image="" data-field='PEcow-One-Jin-roll'>加入</button>
+                            </div>
+                        </div>
+                    </div>
+
+                    @*耐冷-PE牛頭-2斤捲*@
+                    <div class="col-md-3 mb-3" style="height:auto;width:250px;">
+                        <div class="card">
+                            <!-- Product image-->
+                            <img class="card-img-top" src="~/images/耐冷/PE牛頭/2斤捲.jpg" alt="..." />
+                            <!-- Product details-->
+                            <div class="card-body p-4" align=center>
+                                <div class="text-center">
+                                    <!-- Product name-->
+                                    <h2 class="fw-bolder">PE牛頭-2斤捲<br></h2>
+                                    <h4 class="fw-bolder">$210</h4>
+                                </div>
+                                <div class="text-center">
+                                    <a>數量:</a>
+                                    <input name="PEcow-Two-Jin-roll" disabled value="1" style="text-align:center;width:50%" />
+                                </div>
+                            </div>
+                            <!-- Product actions-->
+                            <div class="card-footer p-2 pt-0 border-top-0 bg-transparen" align="center">
+                                <button type="button" class="btn btn-dark btnbagtxt grpqtyDeleteTen"    field='PEcow-Two-Jin-roll'>－5</button>
+                                <button type="button" class="btn btn-secondary btnbagtxt grpqtyDelete"  field='PEcow-Two-Jin-roll'>－</button>
+                                <button type="button" class="btn btn-secondary btnbagtxt grpqtyAdd"     field='PEcow-Two-Jin-roll'>＋</button>
+                                <button type="button" class="btn btn-dark btnbagtxt grpqtyAddTen"       field='PEcow-Two-Jin-roll'>＋5</button>
+                            </div>
+                            <div class="p-1" align="center">
+                                <button class="my-cart-btn btn btn btn-success w-50" data-id="74" data-name="PE牛頭-2斤捲" data-price="210" data-quantity='1' data-image="" data-field='PEcow-Two-Jin-roll'>加入</button>
+                            </div>
+                        </div>
+                    </div>
+
+                    @*耐冷-PE牛頭-3斤捲*@
+                    <div class="col-md-3 mb-3" style="height:auto;width:250px;">
+                        <div class="card">
+                            <!-- Product image-->
+                            <img class="card-img-top" src="~/images/耐冷/PE牛頭/3斤捲.jpg" alt="..." />
+                            <!-- Product details-->
+                            <div class="card-body p-4" align=center>
+                                <div class="text-center">
+                                    <!-- Product name-->
+                                    <h2 class="fw-bolder">PE牛頭-3斤捲<br></h2>
+                                    <h4 class="fw-bolder">$210</h4>
+                                </div>
+                                <div class="text-center">
+                                    <a>數量:</a>
+                                    <input name="PEcow-Three-Jin-roll" disabled value="1" style="text-align:center;width:50%" />
+                                </div>
+                            </div>
+                            <!-- Product actions-->
+                            <div class="card-footer p-2 pt-0 border-top-0 bg-transparen" align="center">
+                                <button type="button" class="btn btn-dark btnbagtxt grpqtyDeleteTen"    field='PEcow-Three-Jin-roll'>－5</button>
+                                <button type="button" class="btn btn-secondary btnbagtxt grpqtyDelete"  field='PEcow-Three-Jin-roll'>－</button>
+                                <button type="button" class="btn btn-secondary btnbagtxt grpqtyAdd"     field='PEcow-Three-Jin-roll'>＋</button>
+                                <button type="button" class="btn btn-dark btnbagtxt grpqtyAddTen"       field='PEcow-Three-Jin-roll'>＋5</button>
+                            </div>
+                            <div class="p-1" align="center">
+                                <button class="my-cart-btn btn btn btn-success w-50" data-id="75" data-name="PE牛頭-3斤捲" data-price="210" data-quantity='1' data-image="" data-field='PEcow-Three-Jin-roll'>加入</button>
+                            </div>
+                        </div>
+                    </div>
+
+                    @*耐冷-PE牛頭-5斤捲*@
+                    <div class="col-md-3 mb-3" style="height:auto;width:250px;">
+                        <div class="card">
+                            <!-- Product image-->
+                            <img class="card-img-top" src="~/images/耐冷/PE牛頭/5斤捲.jpg" alt="..." />
+                            <!-- Product details-->
+                            <div class="card-body p-4" align=center>
+                                <div class="text-center">
+                                    <!-- Product name-->
+                                    <h2 class="fw-bolder">PE牛頭-5斤捲<br></h2>
+                                    <h4 class="fw-bolder">$210</h4>
+                                </div>
+                                <div class="text-center">
+                                    <a>數量:</a>
+                                    <input name="PEcow-Five-Jin-roll" disabled value="1" style="text-align:center;width:50%" />
+                                </div>
+                            </div>
+                            <!-- Product actions-->
+                            <div class="card-footer p-2 pt-0 border-top-0 bg-transparen" align="center">
+                                <button type="button" class="btn btn-dark btnbagtxt grpqtyDeleteTen"    field='PEcow-Five-Jin-roll'>－5</button>
+                                <button type="button" class="btn btn-secondary btnbagtxt grpqtyDelete"  field='PEcow-Five-Jin-roll'>－</button>
+                                <button type="button" class="btn btn-secondary btnbagtxt grpqtyAdd"     field='PEcow-Five-Jin-roll'>＋</button>
+                                <button type="button" class="btn btn-dark btnbagtxt grpqtyAddTen"       field='PEcow-Five-Jin-roll'>＋5</button>
+                            </div>
+                            <div class="p-1" align="center">
+                                <button class="my-cart-btn btn btn btn-success w-50" data-id="76" data-name="PE牛頭-5斤捲" data-price="210" data-quantity='1' data-image="" data-field='PEcow-Five-Jin-roll'>加入</button>
+                            </div>
+                        </div>
+                    </div>
+
+                    @*耐冷-PE牛頭-半斤包*@
+                    <div class="col-md-3 mb-3" style="height:auto;width:250px;">
+                        <div class="card">
+                            <!-- Product image-->
+                            <img class="card-img-top" src="~/images/耐冷/PE牛頭/半斤包.jpg" alt="..." />
+                            <!-- Product details-->
+                            <div class="card-body p-4" align=center>
+                                <div class="text-center">
+                                    <!-- Product name-->
+                                    <h2 class="fw-bolder">PE牛頭-半斤包<br></h2>
+                                    <h4 class="fw-bolder">$40</h4>
+                                </div>
+                                <div class="text-center">
+                                    <a>數量:</a>
+                                    <input name="PEcow-Half-Jin-bag" disabled value="1" style="text-align:center;width:50%" />
+                                </div>
+                            </div>
+                            <!-- Product actions-->
+                            <div class="card-footer p-2 pt-0 border-top-0 bg-transparen" align="center">
+                                <button type="button" class="btn btn-dark btnbagtxt grpqtyDeleteTen"    field='PEcow-Half-Jin-bag'>－5</button>
+                                <button type="button" class="btn btn-secondary btnbagtxt grpqtyDelete"  field='PEcow-Half-Jin-bag'>－</button>
+                                <button type="button" class="btn btn-secondary btnbagtxt grpqtyAdd"     field='PEcow-Half-Jin-bag'>＋</button>
+                                <button type="button" class="btn btn-dark btnbagtxt grpqtyAddTen"       field='PEcow-Half-Jin-bag'>＋5</button>
+                            </div>
+                            <div class="p-1" align="center">
+                                <button class="my-cart-btn btn btn btn-success w-50" data-id="77" data-name="PE牛頭-半斤包" data-price="40" data-quantity='1' data-image="" data-field='PEcow-Half-Jin-bag'>加入</button>
+                            </div>
+                        </div>
+                    </div>
+
+                    @*耐冷-PE牛頭-1斤包*@
+                    <div class="col-md-3 mb-3" style="height:auto;width:250px;">
+                        <div class="card">
+                            <!-- Product image-->
+                            <img class="card-img-top" src="~/images/耐冷/PE牛頭/1斤包.jpg" alt="..." />
+                            <!-- Product details-->
+                            <div class="card-body p-4" align=center>
+                                <div class="text-center">
+                                    <!-- Product name-->
+                                    <h2 class="fw-bolder">PE牛頭-1斤包<br></h2>
+                                    <h4 class="fw-bolder">$40</h4>
+                                </div>
+                                <div class="text-center">
+                                    <a>數量:</a>
+                                    <input name="PEcow-One-Jin-bag" disabled value="1" style="text-align:center;width:50%" />
+                                </div>
+                            </div>
+                            <!-- Product actions-->
+                            <div class="card-footer p-2 pt-0 border-top-0 bg-transparen" align="center">
+                                <button type="button" class="btn btn-dark btnbagtxt grpqtyDeleteTen"    field='PEcow-One-Jin-bag'>－5</button>
+                                <button type="button" class="btn btn-secondary btnbagtxt grpqtyDelete"  field='PEcow-One-Jin-bag'>－</button>
+                                <button type="button" class="btn btn-secondary btnbagtxt grpqtyAdd"     field='PEcow-One-Jin-bag'>＋</button>
+                                <button type="button" class="btn btn-dark btnbagtxt grpqtyAddTen"       field='PEcow-One-Jin-bag'>＋5</button>
+                            </div>
+                            <div class="p-1" align="center">
+                                <button class="my-cart-btn btn btn btn-success w-50" data-id="78" data-name="PE牛頭-1斤包" data-price="40" data-quantity='1' data-image="" data-field='PEcow-One-Jin-bag'>加入</button>
+                            </div>
+                        </div>
+                    </div>
+
+                    @*耐冷-PE牛頭-10斤包*@
+                    <div class="col-md-3 mb-3" style="height:auto;width:250px;">
+                        <div class="card">
+                            <!-- Product image-->
+                            <img class="card-img-top" src="~/images/耐冷/PE牛頭/10斤包.jpg" alt="..." />
+                            <!-- Product details-->
+                            <div class="card-body p-4" align=center>
+                                <div class="text-center">
+                                    <!-- Product name-->
+                                    <h2 class="fw-bolder">PE牛頭-10斤包<br></h2>
+                                    <h4 class="fw-bolder">$40</h4>
+                                </div>
+                                <div class="text-center">
+                                    <a>數量:</a>
+                                    <input name="PEcow-Ten-Jin-bag" disabled value="1" style="text-align:center;width:50%" />
+                                </div>
+                            </div>
+                            <!-- Product actions-->
+                            <div class="card-footer p-2 pt-0 border-top-0 bg-transparen" align="center">
+                                <button type="button" class="btn btn-dark btnbagtxt grpqtyDeleteTen"    field='PEcow-Ten-Jin-bag'>－5</button>
+                                <button type="button" class="btn btn-secondary btnbagtxt grpqtyDelete"  field='PEcow-Ten-Jin-bag'>－</button>
+                                <button type="button" class="btn btn-secondary btnbagtxt grpqtyAdd"     field='PEcow-Ten-Jin-bag'>＋</button>
+                                <button type="button" class="btn btn-dark btnbagtxt grpqtyAddTen"       field='PEcow-Ten-Jin-bag'>＋5</button>
+                            </div>
+                            <div class="p-1" align="center">
+                                <button class="my-cart-btn btn btn btn-success w-50" data-id="79" data-name="PE牛頭-10斤包" data-price="40" data-quantity='1' data-image="" data-field='PEcow-Ten-Jin-bag'>加入</button>
+                            </div>
+                        </div>
+                    </div>
+
+
+                </div>
+            </div>
+
+
+            @*範例留存
+            一般提袋
+            <div class="p-3 bg-white col-md-9 col-9 col-xl-9 container" id="Hand-Bag-card">
+            <div class="row">
+            <!-- 小半斤-->
+            <div class="col-md-3 mb-3" style="height:auto;width:250px;">
+            <div class="card">
+            <!-- Product image-->
+            <img class="card-img-top" src="~/images/提袋/提袋/小半斤.jpg" alt="..." />
+            <!-- Product details-->
+            <div class="card-body p-4" align=center>
+            <div class="text-center">
+            <!-- Product name-->
+            <h2 class="fw-bolder">提袋-小半斤<br></h2>
+            <h4 class="fw-bolder">$20</h4>
+            </div>
+            <div class="text-center">
+            <a>數量:</a>
+            <input name="SHalf-Jin" disabled value="1" style="text-align:center;width:50%" />
+            </div>
+            </div>
+            <!-- Product actions-->
+            <div class="card-footer p-2 pt-0 border-top-0 bg-transparen" align="center">
+            <button type="button" class="btn btn-dark btnbagtxt grpqtyDeleteTen" field='SHalf-Jin'>－10</button>
+            <button type="button" class="btn btn-secondary btnbagtxt grpqtyDelete" field='SHalf-Jin'>－</button>
+            <button type="button" class="btn btn-secondary btnbagtxt grpqtyAdd" field='SHalf-Jin'>＋</button>
+            <button type="button" class="btn btn-dark btnbagtxt grpqtyAddTen" field='SHalf-Jin'>＋10</button>
+            </div>
+            <div class="p-1" align="center">
+            <button class="my-cart-btn btn btn btn-success w-50" data-id="1" data-name="提袋-小半斤" data-price="20" data-quantity=1 data-image="https://img.onl/a5EpEP" data-field='SHalf-Jin'>加入</button>
+            </div>
+            </div>
+            </div>
+
+
+            </div>
+            </div>*@
+
+
+
+        </div>
+    </div>
+
+    <script src="~/js/jquery-2.2.3.min.js"></script>
+    <script type='text/javascript' src="~/js/bootstrap.min.js"></script>
+    <script type='text/javascript' src="~/js/jquery.mycart.js" charset="big5"></script>
+    <script>
+
+
+
+        $(function () {
+            // This button will increment the value
+            $('.grpqtyDeleteTen').click(function (e) {
+                // Stop acting like a button
+                e.preventDefault();
+                // Get the field name
+                fieldName = $(this).attr('field');
+                // Get its current value
+                var currentVal = parseInt($('input[name=' + fieldName + ']').val());
+                // If is not undefined
+                if (!isNaN(currentVal) && currentVal >= 11) {
+                    // Increment
+                    $('input[name=' + fieldName + ']').val(currentVal -5);
+                } else {
+                    // Otherwise put a 0 there
+                    $('input[name=' + fieldName + ']').val(1);
+                }
+            });
+            // This button will decrement the value till 0
+            $(".grpqtyDelete").click(function (e) {
+                // Stop acting like a button
+                e.preventDefault();
+                // Get the field name
+                fieldName = $(this).attr('field');
+                // Get its current value
+                var currentVal = parseInt($('input[name=' + fieldName + ']').val());
+                // If it isn't undefined or its greater than 0
+                if (!isNaN(currentVal) && currentVal > 1) {
+                    // Decrement one
+                    $('input[name=' + fieldName + ']').val(currentVal - 1);
+                } else {
+                    // Otherwise put a 0 there
+                    $('input[name=' + fieldName + ']').val(1);
+                }
+            });
+            $('.grpqtyAdd').click(function (e) {
+                // Stop acting like a button
+                e.preventDefault();
+                // Get the field name
+                fieldName = $(this).attr('field');
+                // Get its current value
+                var currentVal = parseInt($('input[name=' + fieldName + ']').val());
+                // If is not undefined
+                if (!isNaN(currentVal)) {
+                    // Increment
+                    $('input[name=' + fieldName + ']').val(currentVal + 1);
+                } else {
+                    // Otherwise put a 0 there
+                    $('input[name=' + fieldName + ']').val(1);
+                }
+            });
+            // This button will decrement the value till 0
+            $(".grpqtyAddTen").click(function (e) {
+                // Stop acting like a button
+                e.preventDefault();
+                // Get the field name
+                fieldName = $(this).attr('field');
+                // Get its current value
+                var currentVal = parseInt($('input[name=' + fieldName + ']').val());
+                // If it isn't undefined or its greater than 0
+                if (!isNaN(currentVal)) {
+                    // Decrement one
+                    $('input[name=' + fieldName + ']').val(currentVal + 5);
+                } else {
+                    // Otherwise put a 0 there
+                    $('input[name=' + fieldName + ']').val(1);
+                }
+            });
+
+
+
+            var goToCartIcon = function ($addTocartBtn) {
+                var $cartIcon = $(".my-cart-icon");
+                var $image = $('<img width="30px" height="30px" src="' + $addTocartBtn.data("image") + '"/>').css({ "position": "fixed", "z-index": "999" });
+                $addTocartBtn.prepend($image);
+                var position = $cartIcon.position();
+                $image.animate({
+                    top: position.top,
+                    left: position.left
+                }, 500, "linear", function () {
+                    $image.remove();
+                });
+            }
+
+
+            $('.my-cart-btn').myCart({
+                currencySymbol: '$',
+                classCartIcon: 'my-cart-icon',
+                classCartBadge: 'my-cart-badge',
+                classProductQuantity: 'my-product-quantity',
+                classProductRemove: 'my-product-remove',
+                classCheckoutCart: 'my-cart-checkout',
+                affixCartIcon: true,
+                showCheckoutModal: true,
+                numberOfDecimals: 2,
+                //cartItems: [
+                //    { id: 1, name: 'product 1', summary: 'summary 1', price: 10, quantity: 1, image: 'images/img_1.png' },
+                //    { id: 2, name: 'product 2', summary: 'summary 2', price: 20, quantity: 2, image: 'images/img_2.png' },
+                //    { id: 3, name: 'product 3', summary: 'summary 3', price: 30, quantity: 1, image: 'images/img_3.png' }
+                //],
+                clickOnAddToCart: function ($addTocart) {
+                    goToCartIcon($addTocart);
+                },
+                afterAddOnCart: function (products, totalPrice, totalQuantity) {
+                    console.log("afterAddOnCart", products, totalPrice, totalQuantity);
+                },
+                clickOnCartIcon: function ($cartIcon, products, totalPrice, totalQuantity) {
+                    console.log("cart icon clicked", $cartIcon, products, totalPrice, totalQuantity);
+                },
+                //訂單送出加資料庫
+                checkoutCart: function (products, totalPrice, totalQuantity, booth_name, booth_num, phone, demo) {
+                 //   alert("攤位名:" + booth_name + "攤號:" + booth_num + "手機:" + phone + "備註:" + demo      );
+                    //this.id
+                    var checkoutString = "Total Price: " + totalPrice + "\nTotal Quantity: " + totalQuantity;
+                   // checkoutString += "\n\n  name \t price \t quantity \t image path";
+                    $.each(products, function () {
+                        checkoutString += ("product_name=" + this.name + ",price=" + this.price + ",quantity=" + this.quantity + ",booth_name=" + booth_name + ",booth_num=" + booth_num + ",phone=" + phone + ",demo=" + demo);
+
+                        
+                        var data = $("#registform").serialize();
+                            //update
+                            $.ajax({
+                                type: "POST",
+                                url: "/Home/update",
+                                dataType: "text",
+                                data: {
+                                product_name: this.name,
+                                price:  this.price, 
+                                quantity: this.quantity,
+                                booth_name: booth_name, 
+                                booth_num: booth_num, 
+                                phone:phone,
+                                demo: demo
+                                },
+                                success: function (response) {
+                                    var result = response;
+                                    console.log(result);
+                                    if (result == "true") {
+                                        //alert('下單成功。');
+                                        //history.go(0);  //重新整理
+                                    }
+                                    else {
+                                        alert('下單失敗，請檢查是否輸入正確。');
+                                    }
+                                },
+                                error: function () {
+                                    alert('下單失敗，請檢查是否輸入正確。');
+                                }
+                            });
+                               
+
+
+                    });
+
+                    //orderBag
+                    $.ajax({
+                        type: "POST",
+                        url: "/Home/orderBag",
+                        dataType: "text",
+                        data: {
+                            booth_name: booth_name,
+                            booth_num: booth_num,
+                            total_price: totalPrice
+                        },
+                        success: function (response) {
+                            var result = response;
+                            console.log(result);
+                            if (result == "true") {
+                                alert('下單成功！祝您生意興隆！');
+                                //history.go(0);  //重新整理
+                            }
+                            else {
+                                alert('下單失敗，請檢查是否輸入正確。');
+                            }
+                        },
+                        error: function () {
+                            alert('下單失敗，請檢查是否輸入正確。');
+                        }
+                    });
+
+
+
+
+                   // alert(checkoutString)     //原輸出
+                    console.log("checking out", products, totalPrice, totalQuantity);
+                },
+                getDiscountPrice: function (products, totalPrice, totalQuantity) {
+                    console.log("calculating discount", products, totalPrice, totalQuantity);
+                    return totalPrice * 0.5;
+                }
+            });
+        });
+
+    </script>
+
+
+    @*
+    data-id: 產品編號
+    data-name: 產品名稱
+    data-summary: 產品摘要
+    data-price: 產品價格
+    data-quantity: 產品數量*@
+
+    <!-- Footer-->
+        <footer class="py-2 bg-dark">
+            <div class="container"><p class="m-0 text-center text-white"> 2023 &copy; CK & HY</p></div>
+        </footer>
+
+    <!-- Bootstrap core JS-->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+    <!-- Core theme JS-->
+    <script src="~/js/site.js"></script>
+</body>
+</html>

@@ -1,0 +1,561 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\images\\shoppingCart@2x.png",
+      "PackagePath": "staticwebassets\\images\\shoppingCart@2x.png"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\images\\內袋\\內袋\\1斤.jpg",
+      "PackagePath": "staticwebassets\\images\\內袋\\內袋\\1斤.jpg"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\images\\內袋\\內袋\\2斤.jpg",
+      "PackagePath": "staticwebassets\\images\\內袋\\內袋\\2斤.jpg"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\images\\內袋\\內袋\\3斤.jpg",
+      "PackagePath": "staticwebassets\\images\\內袋\\內袋\\3斤.jpg"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\images\\內袋\\內袋\\5x7.jpg",
+      "PackagePath": "staticwebassets\\images\\內袋\\內袋\\5x7.jpg"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\images\\內袋\\內袋\\5斤.jpg",
+      "PackagePath": "staticwebassets\\images\\內袋\\內袋\\5斤.jpg"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\images\\內袋\\內袋\\6x7.jpg",
+      "PackagePath": "staticwebassets\\images\\內袋\\內袋\\6x7.jpg"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\images\\內袋\\內袋\\半斤.jpg",
+      "PackagePath": "staticwebassets\\images\\內袋\\內袋\\半斤.jpg"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\images\\內袋\\吊袋\\1斤.jpg",
+      "PackagePath": "staticwebassets\\images\\內袋\\吊袋\\1斤.jpg"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\images\\內袋\\吊袋\\2斤.jpg",
+      "PackagePath": "staticwebassets\\images\\內袋\\吊袋\\2斤.jpg"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\images\\內袋\\吊袋\\3斤.jpg",
+      "PackagePath": "staticwebassets\\images\\內袋\\吊袋\\3斤.jpg"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\images\\內袋\\吊袋\\5斤.jpg",
+      "PackagePath": "staticwebassets\\images\\內袋\\吊袋\\5斤.jpg"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\images\\內袋\\吊袋\\半斤.jpg",
+      "PackagePath": "staticwebassets\\images\\內袋\\吊袋\\半斤.jpg"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\images\\內袋\\穿絲內袋\\1斤.jpg",
+      "PackagePath": "staticwebassets\\images\\內袋\\穿絲內袋\\1斤.jpg"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\images\\內袋\\穿絲內袋\\2斤.jpg",
+      "PackagePath": "staticwebassets\\images\\內袋\\穿絲內袋\\2斤.jpg"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\images\\內袋\\穿絲內袋\\3斤.jpg",
+      "PackagePath": "staticwebassets\\images\\內袋\\穿絲內袋\\3斤.jpg"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\images\\內袋\\穿絲內袋\\5斤.jpg",
+      "PackagePath": "staticwebassets\\images\\內袋\\穿絲內袋\\5斤.jpg"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\images\\內袋\\穿絲內袋\\半斤.jpg",
+      "PackagePath": "staticwebassets\\images\\內袋\\穿絲內袋\\半斤.jpg"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\images\\提袋\\全白提袋\\1斤.jpg",
+      "PackagePath": "staticwebassets\\images\\提袋\\全白提袋\\1斤.jpg"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\images\\提袋\\全白提袋\\2斤.jpg",
+      "PackagePath": "staticwebassets\\images\\提袋\\全白提袋\\2斤.jpg"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\images\\提袋\\全白提袋\\3斤.jpg",
+      "PackagePath": "staticwebassets\\images\\提袋\\全白提袋\\3斤.jpg"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\images\\提袋\\全白提袋\\5斤.jpg",
+      "PackagePath": "staticwebassets\\images\\提袋\\全白提袋\\5斤.jpg"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\images\\提袋\\全白提袋\\半斤.jpg",
+      "PackagePath": "staticwebassets\\images\\提袋\\全白提袋\\半斤.jpg"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\images\\提袋\\全白提袋\\小半斤.jpg",
+      "PackagePath": "staticwebassets\\images\\提袋\\全白提袋\\小半斤.jpg"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\images\\提袋\\其他提袋\\1杯.jpg",
+      "PackagePath": "staticwebassets\\images\\提袋\\其他提袋\\1杯.jpg"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\images\\提袋\\其他提袋\\3杯.jpg",
+      "PackagePath": "staticwebassets\\images\\提袋\\其他提袋\\3杯.jpg"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\images\\提袋\\其他提袋\\半斤加長.jpg",
+      "PackagePath": "staticwebassets\\images\\提袋\\其他提袋\\半斤加長.jpg"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\images\\提袋\\其他提袋\\大2杯.jpg",
+      "PackagePath": "staticwebassets\\images\\提袋\\其他提袋\\大2杯.jpg"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\images\\提袋\\其他提袋\\大3杯.jpg",
+      "PackagePath": "staticwebassets\\images\\提袋\\其他提袋\\大3杯.jpg"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\images\\提袋\\其他提袋\\小半斤加長.jpg",
+      "PackagePath": "staticwebassets\\images\\提袋\\其他提袋\\小半斤加長.jpg"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\images\\提袋\\提袋\\1斤.jpg",
+      "PackagePath": "staticwebassets\\images\\提袋\\提袋\\1斤.jpg"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\images\\提袋\\提袋\\2斤.jpg",
+      "PackagePath": "staticwebassets\\images\\提袋\\提袋\\2斤.jpg"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\images\\提袋\\提袋\\3斤.jpg",
+      "PackagePath": "staticwebassets\\images\\提袋\\提袋\\3斤.jpg"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\images\\提袋\\提袋\\4斤.jpg",
+      "PackagePath": "staticwebassets\\images\\提袋\\提袋\\4斤.jpg"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\images\\提袋\\提袋\\5斤.jpg",
+      "PackagePath": "staticwebassets\\images\\提袋\\提袋\\5斤.jpg"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\images\\提袋\\提袋\\半斤.jpg",
+      "PackagePath": "staticwebassets\\images\\提袋\\提袋\\半斤.jpg"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\images\\提袋\\提袋\\小半斤.jpg",
+      "PackagePath": "staticwebassets\\images\\提袋\\提袋\\小半斤.jpg"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\images\\提袋\\條紋提袋\\10斤.jpg",
+      "PackagePath": "staticwebassets\\images\\提袋\\條紋提袋\\10斤.jpg"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\images\\提袋\\條紋提袋\\1斤.jpg",
+      "PackagePath": "staticwebassets\\images\\提袋\\條紋提袋\\1斤.jpg"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\images\\提袋\\條紋提袋\\2斤.jpg",
+      "PackagePath": "staticwebassets\\images\\提袋\\條紋提袋\\2斤.jpg"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\images\\提袋\\條紋提袋\\3斤.jpg",
+      "PackagePath": "staticwebassets\\images\\提袋\\條紋提袋\\3斤.jpg"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\images\\提袋\\條紋提袋\\4斤.jpg",
+      "PackagePath": "staticwebassets\\images\\提袋\\條紋提袋\\4斤.jpg"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\images\\提袋\\條紋提袋\\5斤.jpg",
+      "PackagePath": "staticwebassets\\images\\提袋\\條紋提袋\\5斤.jpg"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\images\\提袋\\條紋提袋\\7斤.jpg",
+      "PackagePath": "staticwebassets\\images\\提袋\\條紋提袋\\7斤.jpg"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\images\\提袋\\條紋提袋\\半斤.jpg",
+      "PackagePath": "staticwebassets\\images\\提袋\\條紋提袋\\半斤.jpg"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\images\\提袋\\條紋提袋\\小半斤.jpg",
+      "PackagePath": "staticwebassets\\images\\提袋\\條紋提袋\\小半斤.jpg"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\images\\條紋提袋\\1斤(紅).jpg",
+      "PackagePath": "staticwebassets\\images\\條紋提袋\\1斤(紅).jpg"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\images\\條紋提袋\\2斤(橘).jpg",
+      "PackagePath": "staticwebassets\\images\\條紋提袋\\2斤(橘).jpg"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\images\\條紋提袋\\3斤(紅).jpg",
+      "PackagePath": "staticwebassets\\images\\條紋提袋\\3斤(紅).jpg"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\images\\條紋提袋\\4斤(橘).jpg",
+      "PackagePath": "staticwebassets\\images\\條紋提袋\\4斤(橘).jpg"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\images\\條紋提袋\\5斤(紅).jpg",
+      "PackagePath": "staticwebassets\\images\\條紋提袋\\5斤(紅).jpg"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\images\\條紋提袋\\半斤(橘).jpg",
+      "PackagePath": "staticwebassets\\images\\條紋提袋\\半斤(橘).jpg"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\images\\條紋提袋\\小半斤(紅).jpg",
+      "PackagePath": "staticwebassets\\images\\條紋提袋\\小半斤(紅).jpg"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\images\\耐冷\\PE花果\\1斤.jpg",
+      "PackagePath": "staticwebassets\\images\\耐冷\\PE花果\\1斤.jpg"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\images\\耐冷\\PE花果\\2斤.jpg",
+      "PackagePath": "staticwebassets\\images\\耐冷\\PE花果\\2斤.jpg"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\images\\耐冷\\PE花果\\3斤.jpg",
+      "PackagePath": "staticwebassets\\images\\耐冷\\PE花果\\3斤.jpg"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\images\\耐冷\\PE花果\\4x6.jpg",
+      "PackagePath": "staticwebassets\\images\\耐冷\\PE花果\\4x6.jpg"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\images\\耐冷\\PE花果\\5x7.jpg",
+      "PackagePath": "staticwebassets\\images\\耐冷\\PE花果\\5x7.jpg"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\images\\耐冷\\PE花果\\6x8.jpg",
+      "PackagePath": "staticwebassets\\images\\耐冷\\PE花果\\6x8.jpg"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\images\\耐冷\\PE花果\\6x9.jpg",
+      "PackagePath": "staticwebassets\\images\\耐冷\\PE花果\\6x9.jpg"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\images\\耐冷\\PE花果\\7x10.jpg",
+      "PackagePath": "staticwebassets\\images\\耐冷\\PE花果\\7x10.jpg"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\images\\耐冷\\PE花果\\7x11.jpg",
+      "PackagePath": "staticwebassets\\images\\耐冷\\PE花果\\7x11.jpg"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\images\\耐熱\\PP耐熱\\4x6.jpg",
+      "PackagePath": "staticwebassets\\images\\耐熱\\PP耐熱\\4x6.jpg"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\images\\耐熱\\PP耐熱\\5x7.jpg",
+      "PackagePath": "staticwebassets\\images\\耐熱\\PP耐熱\\5x7.jpg"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\images\\耐熱\\PP耐熱\\6x7.jpg",
+      "PackagePath": "staticwebassets\\images\\耐熱\\PP耐熱\\6x7.jpg"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\images\\耐熱\\PP耐熱\\6x8.jpg",
+      "PackagePath": "staticwebassets\\images\\耐熱\\PP耐熱\\6x8.jpg"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\images\\耐熱\\PP耐熱\\6x9.jpg",
+      "PackagePath": "staticwebassets\\images\\耐熱\\PP耐熱\\6x9.jpg"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\images\\耐熱\\PP耐熱\\7x10.jpg",
+      "PackagePath": "staticwebassets\\images\\耐熱\\PP耐熱\\7x10.jpg"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\images\\耐熱\\PP耐熱\\8x12.jpg",
+      "PackagePath": "staticwebassets\\images\\耐熱\\PP耐熱\\8x12.jpg"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\images\\耐熱\\PP耐熱\\9x13.jpg",
+      "PackagePath": "staticwebassets\\images\\耐熱\\PP耐熱\\9x13.jpg"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\js\\jquery-2.2.3.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-2.2.3.min.js"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\js\\jquery.mycart.js",
+      "PackagePath": "staticwebassets\\js\\jquery.mycart.js"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\js\\jquery.mycart.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.mycart.min.js"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "F:\\school Download\\Pscbag(35)\\Pscbag\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Pscbag.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Pscbag.props",
+      "PackagePath": "build\\Pscbag.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Pscbag.props",
+      "PackagePath": "buildMultiTargeting\\Pscbag.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Pscbag.props",
+      "PackagePath": "buildTransitive\\Pscbag.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

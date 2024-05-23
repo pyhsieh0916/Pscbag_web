@@ -1,0 +1,173 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Pscbag/1.0.0": {
+        "dependencies": {
+          "System.Configuration.ConfigurationManager": "8.0.0",
+          "System.Security.Permissions": "6.0.0-preview.6.21352.12",
+          "MySql.Data": "8.0.31.0"
+        },
+        "runtime": {
+          "Pscbag.dll": {}
+        }
+      },
+      "Microsoft.Win32.SystemEvents/6.0.0-preview.6.21352.12": {
+        "runtime": {
+          "lib/net6.0/Microsoft.Win32.SystemEvents.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.35212"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.35212"
+          }
+        }
+      },
+      "System.Configuration.ConfigurationManager/8.0.0": {
+        "dependencies": {
+          "System.Security.Cryptography.ProtectedData": "8.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/System.Configuration.ConfigurationManager.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.53103"
+          }
+        }
+      },
+      "System.Drawing.Common/6.0.0-preview.6.21352.12": {
+        "dependencies": {
+          "Microsoft.Win32.SystemEvents": "6.0.0-preview.6.21352.12"
+        },
+        "runtime": {
+          "lib/net6.0/System.Drawing.Common.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.35212"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/unix/lib/net6.0/System.Drawing.Common.dll": {
+            "rid": "unix",
+            "assetType": "runtime",
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.35212"
+          },
+          "runtimes/win/lib/net6.0/System.Drawing.Common.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.35212"
+          }
+        }
+      },
+      "System.Security.Cryptography.ProtectedData/8.0.0": {
+        "runtime": {
+          "lib/net6.0/System.Security.Cryptography.ProtectedData.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.53103"
+          }
+        }
+      },
+      "System.Security.Permissions/6.0.0-preview.6.21352.12": {
+        "dependencies": {
+          "System.Windows.Extensions": "6.0.0-preview.6.21352.12"
+        },
+        "runtime": {
+          "lib/net6.0/System.Security.Permissions.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.35212"
+          }
+        }
+      },
+      "System.Windows.Extensions/6.0.0-preview.6.21352.12": {
+        "dependencies": {
+          "System.Drawing.Common": "6.0.0-preview.6.21352.12"
+        },
+        "runtime": {
+          "lib/net6.0/System.Windows.Extensions.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.35212"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net6.0/System.Windows.Extensions.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.35212"
+          }
+        }
+      },
+      "MySql.Data/8.0.31.0": {
+        "runtime": {
+          "MySql.Data.dll": {
+            "assemblyVersion": "8.0.31.0",
+            "fileVersion": "8.0.31.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pscbag/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Win32.SystemEvents/6.0.0-preview.6.21352.12": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-PpG9FGC+bzPIcV9TF3jJrPVuZjPnaIe5UJ0B5jAQDKXrSf7qKcjklGMXR1bVxm+vD5dKMWXisA0xegY5gpxsdg==",
+      "path": "microsoft.win32.systemevents/6.0.0-preview.6.21352.12",
+      "hashPath": "microsoft.win32.systemevents.6.0.0-preview.6.21352.12.nupkg.sha512"
+    },
+    "System.Configuration.ConfigurationManager/8.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JlYi9XVvIREURRUlGMr1F6vOFLk7YSY4p1vHo4kX3tQ0AGrjqlRWHDi66ImHhy6qwXBG3BJ6Y1QlYQ+Qz6Xgww==",
+      "path": "system.configuration.configurationmanager/8.0.0",
+      "hashPath": "system.configuration.configurationmanager.8.0.0.nupkg.sha512"
+    },
+    "System.Drawing.Common/6.0.0-preview.6.21352.12": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8XD8NIQhU7JAj5dfqOJPcO6wsIGG62G4qbRPISb8EQgTdnnmErmRe1OuiH//p85TqZJn9heUBzqvGe5IQMFgeg==",
+      "path": "system.drawing.common/6.0.0-preview.6.21352.12",
+      "hashPath": "system.drawing.common.6.0.0-preview.6.21352.12.nupkg.sha512"
+    },
+    "System.Security.Cryptography.ProtectedData/8.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+TUFINV2q2ifyXauQXRwy4CiBhqvDEDZeVJU7qfxya4aRYOKzVBpN+4acx25VcPB9ywUN6C0n8drWl110PhZEg==",
+      "path": "system.security.cryptography.protecteddata/8.0.0",
+      "hashPath": "system.security.cryptography.protecteddata.8.0.0.nupkg.sha512"
+    },
+    "System.Security.Permissions/6.0.0-preview.6.21352.12": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-oJcN+wEH81hLa98y5rAdDSH3sjWhSrNhBF+OZeXBRcNZHksa5pB6ZEwDoVYsx3yCSpwktKY862QQev6g86Xg1g==",
+      "path": "system.security.permissions/6.0.0-preview.6.21352.12",
+      "hashPath": "system.security.permissions.6.0.0-preview.6.21352.12.nupkg.sha512"
+    },
+    "System.Windows.Extensions/6.0.0-preview.6.21352.12": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XlRxD8d0yjb6kaeu6ywhU5PS9dkeAhO1/sfgzTldeLrJjhjkJTvGPMdamODvvu/2HbhoxGsSFr7CL5wbu4XCbw==",
+      "path": "system.windows.extensions/6.0.0-preview.6.21352.12",
+      "hashPath": "system.windows.extensions.6.0.0-preview.6.21352.12.nupkg.sha512"
+    },
+    "MySql.Data/8.0.31.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

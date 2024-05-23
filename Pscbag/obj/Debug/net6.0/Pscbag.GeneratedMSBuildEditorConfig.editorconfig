@@ -1,0 +1,97 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Pscbag
+build_property.RootNamespace = Pscbag
+build_property.ProjectDir = F:\school Download\Pscbag(35)\Pscbag\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = F:\school Download\Pscbag(35)\Pscbag
+build_property._RazorSourceGeneratorDebug = 
+
+[F:/school Download/Pscbag(35)/Pscbag/Views/Home/Check.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDaGVjay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/school Download/Pscbag(35)/Pscbag/Views/Home/Check_date.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDaGVja19kYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/school Download/Pscbag(35)/Pscbag/Views/Home/contact_us.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxjb250YWN0X3VzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/school Download/Pscbag(35)/Pscbag/Views/Home/Elseelse.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFbHNlZWxzZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/school Download/Pscbag(35)/Pscbag/Views/Home/HandBag.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIYW5kQmFnLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/school Download/Pscbag(35)/Pscbag/Views/Home/HangingBag.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIYW5naW5nQmFnLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/school Download/Pscbag(35)/Pscbag/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/school Download/Pscbag(35)/Pscbag/Views/Home/InnerBag.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbm5lckJhZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/school Download/Pscbag(35)/Pscbag/Views/Home/Login_bao.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbl9iYW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/school Download/Pscbag(35)/Pscbag/Views/Home/OtherBag.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxPdGhlckJhZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/school Download/Pscbag(35)/Pscbag/Views/Home/PEcow.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQRWNvdy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/school Download/Pscbag(35)/Pscbag/Views/Home/PEflower.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQRWZsb3dlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/school Download/Pscbag(35)/Pscbag/Views/Home/PPhot.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQUGhvdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/school Download/Pscbag(35)/Pscbag/Views/Home/rubberband.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxydWJiZXJiYW5kLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/school Download/Pscbag(35)/Pscbag/Views/Home/Smallroll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTbWFsbHJvbGwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/school Download/Pscbag(35)/Pscbag/Views/Home/StripedBag.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTdHJpcGVkQmFnLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/school Download/Pscbag(35)/Pscbag/Views/Home/ThreadingBag.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUaHJlYWRpbmdCYWcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/school Download/Pscbag(35)/Pscbag/Views/Home/trash.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVx0cmFzaC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/school Download/Pscbag(35)/Pscbag/Views/Home/WhitedBag.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxXaGl0ZWRCYWcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/school Download/Pscbag(35)/Pscbag/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
